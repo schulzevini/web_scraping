@@ -1,0 +1,5226 @@
+[
+    {
+        "title": "List of national capitals by population - Wikipedia",
+        "header": "List of national capitals by population",
+        "url": "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population",
+        "table": [
+            {
+                "Country / dependency": "China *",
+                "Capital": "Beijing",
+                "Population": "21,542,000",
+                "% ofcountry": "1.5%",
+                "Source": "[1] 2018"
+            },
+            {
+                "Country / dependency": "Japan *",
+                "Capital": "Tokyo",
+                "Population": "14,094,034",
+                "% ofcountry": "11.3%",
+                "Source": "[2] 2023"
+            },
+            {
+                "Country / dependency": "Russia *",
+                "Capital": "Moscow",
+                "Population": "13,104,177",
+                "% ofcountry": "9.0%",
+                "Source": "[3] 2023"
+            },
+            {
+                "Country / dependency": "DR Congo *",
+                "Capital": "Kinshasa",
+                "Population": "12,691,000",
+                "% ofcountry": "13.2%",
+                "Source": "[4] 2017"
+            },
+            {
+                "Country / dependency": "Indonesia *",
+                "Capital": "Jakarta",
+                "Population": "10,562,088",
+                "% ofcountry": "3.9%",
+                "Source": "[5] 2020"
+            },
+            {
+                "Country / dependency": "Peru *",
+                "Capital": "Lima",
+                "Population": "10,151,000",
+                "% ofcountry": "30.1%",
+                "Source": "[6] 2023"
+            },
+            {
+                "Country / dependency": "Egypt *",
+                "Capital": "Cairo",
+                "Population": "10,107,125",
+                "% ofcountry": "9.3%",
+                "Source": "[7] 2022"
+            },
+            {
+                "Country / dependency": "South Korea *",
+                "Capital": "Seoul",
+                "Population": "9,508,451",
+                "% ofcountry": "18.3%",
+                "Source": "[8] 2022"
+            },
+            {
+                "Country / dependency": "Mexico",
+                "Capital": "Mexico City",
+                "Population": "9,209,944",
+                "% ofcountry": "7.3%",
+                "Source": "[9] 2020"
+            },
+            {
+                "Country / dependency": "United Kingdom *",
+                "Capital": "London",
+                "Population": "9,002,488",
+                "% ofcountry": "13.4%",
+                "Source": "[10] 2020"
+            },
+            {
+                "Country / dependency": "Bangladesh *",
+                "Capital": "Dhaka",
+                "Population": "8,906,039",
+                "% ofcountry": "5.3%",
+                "Source": "[11] 2011"
+            },
+            {
+                "Country / dependency": "Iran *",
+                "Capital": "Tehran",
+                "Population": "8,693,706",
+                "% ofcountry": "9.9%",
+                "Source": "2016"
+            },
+            {
+                "Country / dependency": "Thailand",
+                "Capital": "Bangkok",
+                "Population": "8,305,218",
+                "% ofcountry": "11.6%",
+                "Source": "[12] 2010"
+            },
+            {
+                "Country / dependency": "Vietnam",
+                "Capital": "Hanoi",
+                "Population": "8,053,663",
+                "% ofcountry": "8.3%",
+                "Source": "[13] 2019"
+            },
+            {
+                "Country / dependency": "Iraq *",
+                "Capital": "Baghdad",
+                "Population": "7,682,136",
+                "% ofcountry": "17.6%",
+                "Source": "[14] 2021"
+            },
+            {
+                "Country / dependency": "Saudi Arabia",
+                "Capital": "Riyadh",
+                "Population": "7,676,654",
+                "% ofcountry": "21.4%",
+                "Source": "2018"
+            },
+            {
+                "Country / dependency": "Hong Kong (China)",
+                "Capital": "Hong Kong",
+                "Population": "7,291,600",
+                "% ofcountry": "100%",
+                "Source": "[15] 2022"
+            },
+            {
+                "Country / dependency": "Colombia *",
+                "Capital": "Bogotá",
+                "Population": "7,181,469",
+                "% ofcountry": "13.9%",
+                "Source": "[16] 2011"
+            },
+            {
+                "Country / dependency": "Chile *",
+                "Capital": "Santiago",
+                "Population": "6,310,000",
+                "% ofcountry": "32.4%",
+                "Source": "[17] 2012"
+            },
+            {
+                "Country / dependency": "Turkey *",
+                "Capital": "Ankara",
+                "Population": "5,747,325",
+                "% ofcountry": "6.8%",
+                "Source": "[18] 2021"
+            },
+            {
+                "Country / dependency": "Singapore",
+                "Capital": "Singapore",
+                "Population": "5,917,600",
+                "% ofcountry": "100%",
+                "Source": "[19] 2023"
+            },
+            {
+                "Country / dependency": "Afghanistan *",
+                "Capital": "Kabul",
+                "Population": "4,601,789",
+                "% ofcountry": "11.5%",
+                "Source": "2021"
+            },
+            {
+                "Country / dependency": "Kenya",
+                "Capital": "Nairobi",
+                "Population": "4,397,073",
+                "% ofcountry": "8.3%",
+                "Source": "2019"
+            },
+            {
+                "Country / dependency": "Jordan",
+                "Capital": "Amman",
+                "Population": "4,061,150",
+                "% ofcountry": "36.4%",
+                "Source": "[20] 2021"
+            },
+            {
+                "Country / dependency": "Algeria *",
+                "Capital": "Algiers",
+                "Population": "3,915,811",
+                "% ofcountry": "8.9%",
+                "Source": "2011"
+            },
+            {
+                "Country / dependency": "Germany *",
+                "Capital": "Berlin",
+                "Population": "3,677,472",
+                "% ofcountry": "4.4%",
+                "Source": "[21] 2021"
+            },
+            {
+                "Country / dependency": "Spain *",
+                "Capital": "Madrid",
+                "Population": "3,305,408",
+                "% ofcountry": "7.0%",
+                "Source": "[22] 2021"
+            },
+            {
+                "Country / dependency": "Argentina *",
+                "Capital": "Buenos Aires",
+                "Population": "3,120,612",
+                "% ofcountry": "6.9%",
+                "Source": "[23] 2022"
+            },
+            {
+                "Country / dependency": "Ethiopia *",
+                "Capital": "Addis Ababa",
+                "Population": "3,040,740",
+                "% ofcountry": "2.5%",
+                "Source": "[24] 2012"
+            },
+            {
+                "Country / dependency": "Kuwait",
+                "Capital": "Kuwait City",
+                "Population": "2,989,000",
+                "% ofcountry": "70.3%",
+                "Source": "2018"
+            },
+            {
+                "Country / dependency": "Guatemala",
+                "Capital": "Guatemala City",
+                "Population": "2,934,841",
+                "% ofcountry": "16.7%",
+                "Source": "2020"
+            },
+            {
+                "Country / dependency": "South Africa",
+                "Capital": "Pretoria",
+                "Population": "2,921,488",
+                "% ofcountry": "4.9%",
+                "Source": "[25] 2011"
+            },
+            {
+                "Country / dependency": "Ukraine *",
+                "Capital": "Kyiv",
+                "Population": "2,920,873",
+                "% ofcountry": "6.7%",
+                "Source": "[26] 2021"
+            },
+            {
+                "Country / dependency": "North Korea *",
+                "Capital": "Pyongyang",
+                "Population": "2,870,000",
+                "% ofcountry": "11.1%",
+                "Source": "2016"
+            },
+            {
+                "Country / dependency": "Uzbekistan *",
+                "Capital": "Tashkent",
+                "Population": "2,860,600",
+                "% ofcountry": "8.4%",
+                "Source": "[27] 2022"
+            },
+            {
+                "Country / dependency": "Italy *",
+                "Capital": "Rome",
+                "Population": "2,761,632",
+                "% ofcountry": "4.7%",
+                "Source": "[28] 2022"
+            },
+            {
+                "Country / dependency": "Ecuador",
+                "Capital": "Quito",
+                "Population": "2,800,388",
+                "% ofcountry": "15.7%",
+                "Source": "2020"
+            },
+            {
+                "Country / dependency": "Cameroon",
+                "Capital": "Yaoundé",
+                "Population": "2,765,568",
+                "% ofcountry": "10.2%",
+                "Source": "[29] 2015"
+            },
+            {
+                "Country / dependency": "Zambia",
+                "Capital": "Lusaka",
+                "Population": "2,731,696",
+                "% ofcountry": "14.0%",
+                "Source": "2020"
+            },
+            {
+                "Country / dependency": "Sudan *",
+                "Capital": "Khartoum",
+                "Population": "2,682,431",
+                "% ofcountry": "5.9%",
+                "Source": "2012"
+            },
+            {
+                "Country / dependency": "Brazil *",
+                "Capital": "Brasília",
+                "Population": "2,648,532",
+                "% ofcountry": "1.2%",
+                "Source": "[30] 2012"
+            },
+            {
+                "Country / dependency": "Taiwan *",
+                "Capital": "Taipei (de facto)",
+                "Population": "2,608,332",
+                "% ofcountry": "10.9%",
+                "Source": "[31] 2020"
+            },
+            {
+                "Country / dependency": "Yemen",
+                "Capital": "Sanaa",
+                "Population": "2,575,347",
+                "% ofcountry": "7.8%",
+                "Source": "2012"
+            },
+            {
+                "Country / dependency": "Angola",
+                "Capital": "Luanda",
+                "Population": "2,571,861",
+                "% ofcountry": "7.5%",
+                "Source": "2020"
+            },
+            {
+                "Country / dependency": "Burkina Faso",
+                "Capital": "Ouagadougou",
+                "Population": "2,453,496",
+                "% ofcountry": "11.1%",
+                "Source": "2019"
+            },
+            {
+                "Country / dependency": "Ghana",
+                "Capital": "Accra",
+                "Population": "2,388,000",
+                "% ofcountry": "7.3%",
+                "Source": "2017"
+            },
+            {
+                "Country / dependency": "Somalia",
+                "Capital": "Mogadishu",
+                "Population": "2,388,000",
+                "% ofcountry": "14.0%",
+                "Source": "2021"
+            },
+            {
+                "Country / dependency": "Azerbaijan",
+                "Capital": "Baku",
+                "Population": "2,303,100",
+                "% ofcountry": "22.3%",
+                "Source": "[32] 2022"
+            },
+            {
+                "Country / dependency": "Cambodia",
+                "Capital": "Phnom Penh",
+                "Population": "2,281,951",
+                "% ofcountry": "13.8%",
+                "Source": "2019"
+            },
+            {
+                "Country / dependency": "Venezuela",
+                "Capital": "Caracas",
+                "Population": "2,245,744",
+                "% ofcountry": "8.0%",
+                "Source": "2016"
+            },
+            {
+                "Country / dependency": "France *",
+                "Capital": "Paris",
+                "Population": "2,139,907",
+                "% ofcountry": "3.3%",
+                "Source": "[33] 2022"
+            },
+            {
+                "Country / dependency": "Cuba",
+                "Capital": "Havana",
+                "Population": "2,132,183",
+                "% ofcountry": "18.9%",
+                "Source": "[34] 2020"
+            },
+            {
+                "Country / dependency": "Zimbabwe",
+                "Capital": "Harare",
+                "Population": "2,123,132",
+                "% ofcountry": "13.3%",
+                "Source": "2012"
+            },
+            {
+                "Country / dependency": "Syria",
+                "Capital": "Damascus",
+                "Population": "2,079,000",
+                "% ofcountry": "9.7%",
+                "Source": "2019"
+            },
+            {
+                "Country / dependency": "Belarus",
+                "Capital": "Minsk",
+                "Population": "1,996,553",
+                "% ofcountry": "20.8%",
+                "Source": "[35] 2022"
+            },
+            {
+                "Country / dependency": "Austria",
+                "Capital": "Vienna",
+                "Population": "1,962,779",
+                "% ofcountry": "22.0%",
+                "Source": "[36] 2022"
+            },
+            {
+                "Country / dependency": "Poland",
+                "Capital": "Warsaw",
+                "Population": "1,863,056",
+                "% ofcountry": "4.9%",
+                "Source": "[37] 2021"
+            },
+            {
+                "Country / dependency": "Philippines *",
+                "Capital": "Manila",
+                "Population": "1,846,513",
+                "% ofcountry": "1.6%",
+                "Source": "[38] 2020"
+            },
+            {
+                "Country / dependency": "Mali",
+                "Capital": "Bamako",
+                "Population": "1,809,106",
+                "% ofcountry": "8.3%",
+                "Source": "2009"
+            },
+            {
+                "Country / dependency": "Malaysia *",
+                "Capital": "Kuala Lumpur",
+                "Population": "1,782,500",
+                "% ofcountry": "5.3%",
+                "Source": "2019"
+            },
+            {
+                "Country / dependency": "Romania *",
+                "Capital": "Bucharest",
+                "Population": "1,716,983",
+                "% ofcountry": "8.9%",
+                "Source": "[39] 2021"
+            },
+            {
+                "Country / dependency": "Hungary *",
+                "Capital": "Budapest",
+                "Population": "1,706,851",
+                "% ofcountry": "17.6%",
+                "Source": "[40] 2022"
+            },
+            {
+                "Country / dependency": "Congo",
+                "Capital": "Brazzaville",
+                "Population": "1,696,392",
+                "% ofcountry": "29.1%",
+                "Source": "2015"
+            },
+            {
+                "Country / dependency": "Serbia *",
+                "Capital": "Belgrade",
+                "Population": "1,688,667",
+                "% ofcountry": "23.1%",
+                "Source": "[41] 2021"
+            },
+            {
+                "Country / dependency": "Uganda",
+                "Capital": "Kampala",
+                "Population": "1,680,600",
+                "% ofcountry": "3.7%",
+                "Source": "2019"
+            },
+            {
+                "Country / dependency": "Guinea",
+                "Capital": "Conakry",
+                "Population": "1,660,973",
+                "% ofcountry": "12.3%",
+                "Source": "2014"
+            },
+            {
+                "Country / dependency": "Mongolia",
+                "Capital": "Ulaanbaatar",
+                "Population": "1,466,125",
+                "% ofcountry": "43.8%",
+                "Source": "2020"
+            },
+            {
+                "Country / dependency": "Honduras",
+                "Capital": "Tegucigalpa",
+                "Population": "1,444,085",
+                "% ofcountry": "14.0%",
+                "Source": "2021"
+            },
+            {
+                "Country / dependency": "Senegal",
+                "Capital": "Dakar",
+                "Population": "1,438,725",
+                "% ofcountry": "8.5%",
+                "Source": "2021"
+            },
+            {
+                "Country / dependency": "Czech Republic *",
+                "Capital": "Prague",
+                "Population": "1,357,326",
+                "% ofcountry": "12.9%",
+                "Source": "[42] 2023"
+            },
+            {
+                "Country / dependency": "Niger *",
+                "Capital": "Niamey",
+                "Population": "1,334,984",
+                "% ofcountry": "5.3%",
+                "Source": "2020"
+            },
+            {
+                "Country / dependency": "Uruguay",
+                "Capital": "Montevideo",
+                "Population": "1,319,108",
+                "% ofcountry": "38.5%",
+                "Source": "2011"
+            },
+            {
+                "Country / dependency": "Bulgaria *",
+                "Capital": "Sofia",
+                "Population": "1,307,439",
+                "% ofcountry": "19.0%",
+                "Source": "[43] 2021"
+            },
+            {
+                "Country / dependency": "Oman",
+                "Capital": "Muscat",
+                "Population": "1,294,101",
+                "% ofcountry": "28.6%",
+                "Source": "[44] 2021"
+            },
+            {
+                "Country / dependency": "Madagascar",
+                "Capital": "Antananarivo",
+                "Population": "1,275,207",
+                "% ofcountry": "4.4%",
+                "Source": "2018"
+            },
+            {
+                "Country / dependency": "Kazakhstan *",
+                "Capital": "Astana",
+                "Population": "1,239,900",
+                "% ofcountry": "6.5%",
+                "Source": "[45] 2022"
+            },
+            {
+                "Country / dependency": "Nigeria",
+                "Capital": "Abuja",
+                "Population": "1,235,880",
+                "% ofcountry": "0.6%",
+                "Source": "2011"
+            },
+            {
+                "Country / dependency": "Georgia",
+                "Capital": "Tbilisi",
+                "Population": "1,201,769",
+                "% ofcountry": "32.0%",
+                "Source": "[46] 2022"
+            },
+            {
+                "Country / dependency": "Mauritania *",
+                "Capital": "Nouakchott",
+                "Population": "1,195,600",
+                "% ofcountry": "25.9%",
+                "Source": "2019"
+            },
+            {
+                "Country / dependency": "Qatar *",
+                "Capital": "Doha",
+                "Population": "1,186,023",
+                "% ofcountry": "44.1%",
+                "Source": "[47] 2020"
+            },
+            {
+                "Country / dependency": "Libya",
+                "Capital": "Tripoli",
+                "Population": "1,170,000",
+                "% ofcountry": "17.4%",
+                "Source": "2019"
+            },
+            {
+                "Country / dependency": "Myanmar",
+                "Capital": "Naypyidaw",
+                "Population": "1,160,242",
+                "% ofcountry": "2.2%",
+                "Source": "2014"
+            },
+            {
+                "Country / dependency": "Rwanda",
+                "Capital": "Kigali",
+                "Population": "1,132,686",
+                "% ofcountry": "8.4%",
+                "Source": "2012"
+            },
+            {
+                "Country / dependency": "Mozambique",
+                "Capital": "Maputo",
+                "Population": "1,124,988",
+                "% ofcountry": "3.5%",
+                "Source": "2020"
+            },
+            {
+                "Country / dependency": "Dominican Republic",
+                "Capital": "Santo Domingo",
+                "Population": "1,111,838",
+                "% ofcountry": "10.0%",
+                "Source": "[48] 2010"
+            },
+            {
+                "Country / dependency": "Armenia *",
+                "Capital": "Yerevan",
+                "Population": "1,096,100",
+                "% ofcountry": "39.3%",
+                "Source": "[49] 2021"
+            },
+            {
+                "Country / dependency": "Kyrgyzstan",
+                "Capital": "Bishkek",
+                "Population": "1,074,075",
+                "% ofcountry": "16.5%",
+                "Source": "2021"
+            },
+            {
+                "Country / dependency": "Sierra Leone",
+                "Capital": "Freetown",
+                "Population": "1,055,964",
+                "% ofcountry": "12.5%",
+                "Source": "2015"
+            },
+            {
+                "Country / dependency": "Nicaragua",
+                "Capital": "Managua",
+                "Population": "1,055,247",
+                "% ofcountry": "15.4%",
+                "Source": "2020"
+            },
+            {
+                "Country / dependency": "Canada *",
+                "Capital": "Ottawa",
+                "Population": "1,017,449",
+                "% ofcountry": "2.7%",
+                "Source": "[50] 2021"
+            },
+            {
+                "Country / dependency": "Pakistan *",
+                "Capital": "Islamabad",
+                "Population": "1,014,825",
+                "% ofcountry": "0.4%",
+                "Source": "[51] 2017"
+            },
+            {
+                "Country / dependency": "Liberia",
+                "Capital": "Monrovia",
+                "Population": "1,010,970",
+                "% ofcountry": "19.5%",
+                "Source": "2008"
+            },
+            {
+                "Country / dependency": "United Arab Emirates",
+                "Capital": "Abu Dhabi",
+                "Population": "1,010,092",
+                "% ofcountry": "10.8%",
+                "Source": "2020"
+            },
+            {
+                "Country / dependency": "Malawi",
+                "Capital": "Lilongwe",
+                "Population": "989,318",
+                "% ofcountry": "5.0%",
+                "Source": "2018"
+            },
+            {
+                "Country / dependency": "Haiti",
+                "Capital": "Port-au-Prince",
+                "Population": "987,310",
+                "% ofcountry": "8.6%",
+                "Source": "2015"
+            },
+            {
+                "Country / dependency": "Sweden *",
+                "Capital": "Stockholm",
+                "Population": "978,770",
+                "% ofcountry": "9.4%",
+                "Source": "[52] 2021"
+            },
+            {
+                "Country / dependency": "Eritrea",
+                "Capital": "Asmara",
+                "Population": "963,000",
+                "% ofcountry": "26.6%",
+                "Source": "2020"
+            },
+            {
+                "Country / dependency": "Israel *",
+                "Capital": "Jerusalem[a]",
+                "Population": "936,425",
+                "% ofcountry": "10.5%",
+                "Source": "[54] 2019"
+            },
+            {
+                "Country / dependency": "Laos",
+                "Capital": "Vientiane",
+                "Population": "927,724",
+                "% ofcountry": "12.5%",
+                "Source": "[55] 2019"
+            },
+            {
+                "Country / dependency": "Chad",
+                "Capital": "N'Djamena",
+                "Population": "916,000",
+                "% ofcountry": "5.3%",
+                "Source": "2009"
+            },
+            {
+                "Country / dependency": "Netherlands *",
+                "Capital": "Amsterdam",
+                "Population": "905,234",
+                "% ofcountry": "5.2%",
+                "Source": "[56] 2022"
+            },
+            {
+                "Country / dependency": "Central African Republic",
+                "Capital": "Bangui",
+                "Population": "889,231",
+                "% ofcountry": "16.3%",
+                "Source": "2020"
+            },
+            {
+                "Country / dependency": "Panama",
+                "Capital": "Panama City",
+                "Population": "880,691",
+                "% ofcountry": "20.2%",
+                "Source": "2013"
+            },
+            {
+                "Country / dependency": "Tajikistan *",
+                "Capital": "Dushanbe",
+                "Population": "863,400",
+                "% ofcountry": "8.9%",
+                "Source": "2020"
+            },
+            {
+                "Country / dependency": "Nepal *",
+                "Capital": "Kathmandu",
+                "Population": "845,767",
+                "% ofcountry": "2.8%",
+                "Source": "[57] 2021"
+            },
+            {
+                "Country / dependency": "Togo",
+                "Capital": "Lomé",
+                "Population": "837,437",
+                "% ofcountry": "9.7%",
+                "Source": "2010"
+            },
+            {
+                "Country / dependency": "Turkmenistan",
+                "Capital": "Ashgabat",
+                "Population": "791,000",
+                "% ofcountry": "12.5%",
+                "Source": "2017"
+            },
+            {
+                "Country / dependency": "Moldova",
+                "Capital": "Chişinău",
+                "Population": "779,300",
+                "% ofcountry": "25.5%",
+                "Source": "[58] 2019"
+            },
+            {
+                "Country / dependency": "Croatia *",
+                "Capital": "Zagreb",
+                "Population": "769,944",
+                "% ofcountry": "19.0%",
+                "Source": "[59] 2021"
+            },
+            {
+                "Country / dependency": "Gabon *",
+                "Capital": "Libreville",
+                "Population": "703,904",
+                "% ofcountry": "30.1%",
+                "Source": "2013"
+            },
+            {
+                "Country / dependency": "Norway *",
+                "Capital": "Oslo",
+                "Population": "697,010",
+                "% ofcountry": "12.9%",
+                "Source": "[60] 2021"
+            },
+            {
+                "Country / dependency": "Macau (China)",
+                "Capital": "Macau",
+                "Population": "671,900",
+                "% ofcountry": "100%",
+                "Source": "[61] 2022"
+            },
+            {
+                "Country / dependency": "United States *",
+                "Capital": "Washington, D.C.",
+                "Population": "670,050",
+                "% ofcountry": "0.2%",
+                "Source": "[62] 2021"
+            },
+            {
+                "Country / dependency": "Jamaica",
+                "Capital": "Kingston",
+                "Population": "662,491",
+                "% ofcountry": "23.4%",
+                "Source": "[63] 2019"
+            },
+            {
+                "Country / dependency": "Finland *",
+                "Capital": "Helsinki",
+                "Population": "658,864",
+                "% ofcountry": "11.9%",
+                "Source": "[64] 2021"
+            },
+            {
+                "Country / dependency": "Tunisia",
+                "Capital": "Tunis",
+                "Population": "638,845",
+                "% ofcountry": "5.2%",
+                "Source": "2014"
+            },
+            {
+                "Country / dependency": "Denmark *",
+                "Capital": "Copenhagen",
+                "Population": "638,117",
+                "% ofcountry": "10.9%",
+                "Source": "[65] 2021"
+            },
+            {
+                "Country / dependency": "Greece *",
+                "Capital": "Athens",
+                "Population": "637,798",
+                "% ofcountry": "6.1%",
+                "Source": "[66] 2021"
+            },
+            {
+                "Country / dependency": "Latvia *",
+                "Capital": "Riga",
+                "Population": "605,802",
+                "% ofcountry": "32.3%",
+                "Source": "[67] 2021"
+            },
+            {
+                "Country / dependency": "Djibouti",
+                "Capital": "Djibouti City",
+                "Population": "604,013",
+                "% ofcountry": "54.6%",
+                "Source": "2012"
+            },
+            {
+                "Country / dependency": "Ireland *",
+                "Capital": "Dublin",
+                "Population": "588,233",
+                "% ofcountry": "11.8%",
+                "Source": "[68] 2022"
+            },
+            {
+                "Country / dependency": "Morocco",
+                "Capital": "Rabat",
+                "Population": "577,827",
+                "% ofcountry": "1.6%",
+                "Source": "2014"
+            },
+            {
+                "Country / dependency": "Lithuania",
+                "Capital": "Vilnius",
+                "Population": "576,195",
+                "% ofcountry": "20.7%",
+                "Source": "[69] 2022"
+            },
+            {
+                "Country / dependency": "El Salvador",
+                "Capital": "San Salvador",
+                "Population": "570,459",
+                "% ofcountry": "9.0%",
+                "Source": "2019"
+            },
+            {
+                "Country / dependency": "Albania",
+                "Capital": "Tirana",
+                "Population": "557,422",
+                "% ofcountry": "19.5%",
+                "Source": "2011"
+            },
+            {
+                "Country / dependency": "North Macedonia",
+                "Capital": "Skopje",
+                "Population": "544,086",
+                "% ofcountry": "25.9%",
+                "Source": "[70] 2015"
+            },
+            {
+                "Country / dependency": "South Sudan *",
+                "Capital": "Juba",
+                "Population": "525,953",
+                "% ofcountry": "4.9%",
+                "Source": "2017"
+            },
+            {
+                "Country / dependency": "Paraguay",
+                "Capital": "Asunción",
+                "Population": "521,559",
+                "% ofcountry": "7.8%",
+                "Source": "2020"
+            },
+            {
+                "Country / dependency": "Portugal *",
+                "Capital": "Lisbon",
+                "Population": "509,614",
+                "% ofcountry": "5.0%",
+                "Source": "[71] 2020"
+            },
+            {
+                "Country / dependency": "Guinea-Bissau",
+                "Capital": "Bissau",
+                "Population": "492,004",
+                "% ofcountry": "23.9%",
+                "Source": "2015"
+            },
+            {
+                "Country / dependency": "Slovakia",
+                "Capital": "Bratislava",
+                "Population": "440,948",
+                "% ofcountry": "8.1%",
+                "Source": "[72] 2020"
+            },
+            {
+                "Country / dependency": "Estonia *",
+                "Capital": "Tallinn",
+                "Population": "438,341",
+                "% ofcountry": "33.0%",
+                "Source": "[73] 2021"
+            },
+            {
+                "Country / dependency": "Australia *",
+                "Capital": "Canberra",
+                "Population": "431,380",
+                "% ofcountry": "1.7%",
+                "Source": "[74] 2020"
+            },
+            {
+                "Country / dependency": "Namibia",
+                "Capital": "Windhoek",
+                "Population": "431,000",
+                "% ofcountry": "17.0%",
+                "Source": "2020"
+            },
+            {
+                "Country / dependency": "Tanzania",
+                "Capital": "Dodoma",
+                "Population": "410,956",
+                "% ofcountry": "0.6%",
+                "Source": "2012"
+            },
+            {
+                "Country / dependency": "Papua New Guinea *",
+                "Capital": "Port Moresby",
+                "Population": "364,145",
+                "% ofcountry": "3.7%",
+                "Source": "2011"
+            },
+            {
+                "Country / dependency": "Ivory Coast",
+                "Capital": "Yamoussoukro",
+                "Population": "361,893",
+                "% ofcountry": "1.3%",
+                "Source": "2020"
+            },
+            {
+                "Country / dependency": "Lebanon",
+                "Capital": "Beirut",
+                "Population": "361,366",
+                "% ofcountry": "6.5%",
+                "Source": "2014"
+            },
+            {
+                "Country / dependency": "Bolivia",
+                "Capital": "Sucre",
+                "Population": "360,544",
+                "% ofcountry": "3.0%",
+                "Source": "[75] 2022"
+            },
+            {
+                "Country / dependency": "Puerto Rico (US)",
+                "Capital": "San Juan",
+                "Population": "342,259",
+                "% ofcountry": "10.5%",
+                "Source": "2020"
+            },
+            {
+                "Country / dependency": "Costa Rica",
+                "Capital": "San José",
+                "Population": "342,188",
+                "% ofcountry": "6.6%",
+                "Source": "2018"
+            },
+            {
+                "Country / dependency": "Lesotho",
+                "Capital": "Maseru",
+                "Population": "330,760",
+                "% ofcountry": "14.5%",
+                "Source": "2016"
+            },
+            {
+                "Country / dependency": "Cyprus",
+                "Capital": "Nicosia",
+                "Population": "326,739",
+                "% ofcountry": "26.3%",
+                "Source": "2016"
+            },
+            {
+                "Country / dependency": "Equatorial Guinea *",
+                "Capital": "Malabo",
+                "Population": "297,000",
+                "% ofcountry": "18.2%",
+                "Source": "2018"
+            },
+            {
+                "Country / dependency": "Slovenia *",
+                "Capital": "Ljubljana",
+                "Population": "285,604",
+                "% ofcountry": "13.5%",
+                "Source": "[76] 2021"
+            },
+            {
+                "Country / dependency": "East Timor",
+                "Capital": "Dili",
+                "Population": "277,279",
+                "% ofcountry": "21.0%",
+                "Source": "[77] 2015"
+            },
+            {
+                "Country / dependency": "Bosnia and Herzegovina",
+                "Capital": "Sarajevo",
+                "Population": "275,524",
+                "% ofcountry": "8.4%",
+                "Source": "2013"
+            },
+            {
+                "Country / dependency": "Bahamas",
+                "Capital": "Nassau",
+                "Population": "274,400",
+                "% ofcountry": "67.3%",
+                "Source": "2016"
+            },
+            {
+                "Country / dependency": "Botswana",
+                "Capital": "Gaborone",
+                "Population": "273,602",
+                "% ofcountry": "10.6%",
+                "Source": "2020"
+            },
+            {
+                "Country / dependency": "Benin",
+                "Capital": "Porto-Novo",
+                "Population": "264,320",
+                "% ofcountry": "2.0%",
+                "Source": "2013"
+            },
+            {
+                "Country / dependency": "India *",
+                "Capital": "New Delhi",
+                "Population": "249,998",
+                "% ofcountry": "0.0%",
+                "Source": "2011"
+            },
+            {
+                "Country / dependency": "Suriname",
+                "Capital": "Paramaribo",
+                "Population": "240,924",
+                "% ofcountry": "39.3%",
+                "Source": "2012"
+            },
+            {
+                "Country / dependency": "Sahrawi Arab Democratic Republic",
+                "Capital": "Laayoune (claimed)Tifariti (de facto)",
+                "Population": "217,7323,000",
+                "% ofcountry": "—",
+                "Source": "2014"
+            },
+            {
+                "Country / dependency": "New Zealand *",
+                "Capital": "Wellington",
+                "Population": "217,000",
+                "% ofcountry": "4.2%",
+                "Source": "[78] 2021"
+            },
+            {
+                "Country / dependency": "Maldives *",
+                "Capital": "Malé",
+                "Population": "211,908",
+                "% ofcountry": "40.6%",
+                "Source": "[79] 2022"
+            },
+            {
+                "Country / dependency": "Bahrain",
+                "Capital": "Manama",
+                "Population": "200,000",
+                "% ofcountry": "13.7%",
+                "Source": "2020"
+            },
+            {
+                "Country / dependency": "Kosovo *",
+                "Capital": "Pristina",
+                "Population": "198,897",
+                "% ofcountry": "12.0%",
+                "Source": "2011"
+            },
+            {
+                "Country / dependency": "Montenegro *",
+                "Capital": "Podgorica",
+                "Population": "190,488",
+                "% ofcountry": "30.3%",
+                "Source": "[80] 2020"
+            },
+            {
+                "Country / dependency": "Belgium",
+                "Capital": "Brussels",
+                "Population": "187,686",
+                "% ofcountry": "1.6%",
+                "Source": "[81] 2022"
+            },
+            {
+                "Country / dependency": "Cape Verde",
+                "Capital": "Praia",
+                "Population": "159,050",
+                "% ofcountry": "27.1%",
+                "Source": "2017"
+            },
+            {
+                "Country / dependency": "Mauritius",
+                "Capital": "Port Louis",
+                "Population": "147,066",
+                "% ofcountry": "11.3%",
+                "Source": "2018"
+            },
+            {
+                "Country / dependency": "Curaçao (Netherlands)",
+                "Capital": "Willemstad",
+                "Population": "136,660",
+                "% ofcountry": "71.8%",
+                "Source": "2011"
+            },
+            {
+                "Country / dependency": "Burundi",
+                "Capital": "Gitega",
+                "Population": "135,467",
+                "% ofcountry": "1.1%",
+                "Source": "2020"
+            },
+            {
+                "Country / dependency": "Switzerland *",
+                "Capital": "Bern (de facto)",
+                "Population": "134,591",
+                "% ofcountry": "1.5%",
+                "Source": "[82] 2020"
+            },
+            {
+                "Country / dependency": "Transnistria",
+                "Capital": "Tiraspol",
+                "Population": "133,807",
+                "% ofcountry": "38.5%",
+                "Source": "2015"
+            },
+            {
+                "Country / dependency": "Iceland *",
+                "Capital": "Reykjavík",
+                "Population": "133,262",
+                "% ofcountry": "36.0%",
+                "Source": "[83] 2021"
+            },
+            {
+                "Country / dependency": "Luxembourg *",
+                "Capital": "Luxembourg City",
+                "Population": "134,697",
+                "% ofcountry": "21.1%",
+                "Source": "[84] 2024"
+            },
+            {
+                "Country / dependency": "Guyana",
+                "Capital": "Georgetown",
+                "Population": "118,363",
+                "% ofcountry": "14.7%",
+                "Source": "2012"
+            },
+            {
+                "Country / dependency": "Bhutan",
+                "Capital": "Thimphu",
+                "Population": "114,551",
+                "% ofcountry": "14.7%",
+                "Source": "2017"
+            },
+            {
+                "Country / dependency": "Comoros",
+                "Capital": "Moroni",
+                "Population": "111,326",
+                "% ofcountry": "13.5%",
+                "Source": "2016"
+            },
+            {
+                "Country / dependency": "Barbados",
+                "Capital": "Bridgetown",
+                "Population": "110,000",
+                "% ofcountry": "39.1%",
+                "Source": "2014"
+            },
+            {
+                "Country / dependency": "Sri Lanka",
+                "Capital": "Sri Jayawardenepura Kotte",
+                "Population": "107,925",
+                "% ofcountry": "0.5%",
+                "Source": "2012"
+            },
+            {
+                "Country / dependency": "Brunei",
+                "Capital": "Bandar Seri Begawan",
+                "Population": "100,700",
+                "% ofcountry": "22.6%",
+                "Source": "2007"
+            },
+            {
+                "Country / dependency": "Eswatini",
+                "Capital": "Mbabane",
+                "Population": "94,874",
+                "% ofcountry": "8.0%",
+                "Source": "2010"
+            },
+            {
+                "Country / dependency": "New Caledonia (France)",
+                "Capital": "Nouméa",
+                "Population": "94,285",
+                "% ofcountry": "32.8%",
+                "Source": "2019"
+            },
+            {
+                "Country / dependency": "Fiji",
+                "Capital": "Suva",
+                "Population": "93,970",
+                "% ofcountry": "10.2%",
+                "Source": "2017"
+            },
+            {
+                "Country / dependency": "Solomon Islands",
+                "Capital": "Honiara",
+                "Population": "92,344",
+                "% ofcountry": "13.0%",
+                "Source": "2021"
+            },
+            {
+                "Country / dependency": "Gambia",
+                "Capital": "Banjul",
+                "Population": "73,000",
+                "% ofcountry": "2.8%",
+                "Source": "2013"
+            },
+            {
+                "Country / dependency": "São Tomé and Príncipe",
+                "Capital": "São Tomé",
+                "Population": "71,868",
+                "% ofcountry": "32.2%",
+                "Source": "2015"
+            },
+            {
+                "Country / dependency": "Kiribati",
+                "Capital": "Tarawa",
+                "Population": "70,480",
+                "% ofcountry": "54.7%",
+                "Source": "2020"
+            },
+            {
+                "Country / dependency": "Vanuatu",
+                "Capital": "Port Vila",
+                "Population": "51,437",
+                "% ofcountry": "16.1%",
+                "Source": "2016"
+            },
+            {
+                "Country / dependency": "Northern Mariana Islands (USA)",
+                "Capital": "Saipan",
+                "Population": "47,565",
+                "% ofcountry": "96.1%",
+                "Source": "2017"
+            },
+            {
+                "Country / dependency": "Samoa",
+                "Capital": "Apia",
+                "Population": "41,611",
+                "% ofcountry": "19.0%",
+                "Source": "2021"
+            },
+            {
+                "Country / dependency": "Palestine",
+                "Capital": "Ramallah (de facto)",
+                "Population": "38,998",
+                "% ofcountry": "0.8%",
+                "Source": "2017"
+            },
+            {
+                "Country / dependency": "Monaco",
+                "Capital": "Monaco",
+                "Population": "38,350",
+                "% ofcountry": "100%",
+                "Source": "[85] 2020"
+            },
+            {
+                "Country / dependency": "Jersey (UK)",
+                "Capital": "Saint Helier",
+                "Population": "37,540",
+                "% ofcountry": "34.2%",
+                "Source": "2018"
+            },
+            {
+                "Country / dependency": "Trinidad and Tobago",
+                "Capital": "Port of Spain",
+                "Population": "37,074",
+                "% ofcountry": "2.4%",
+                "Source": "2011"
+            },
+            {
+                "Country / dependency": "Cayman Islands (UK)",
+                "Capital": "George Town",
+                "Population": "34,399",
+                "% ofcountry": "50.5%",
+                "Source": "2021"
+            },
+            {
+                "Country / dependency": "Gibraltar (UK)",
+                "Capital": "Gibraltar",
+                "Population": "34,003",
+                "% ofcountry": "100%",
+                "Source": "2020"
+            },
+            {
+                "Country / dependency": "Grenada",
+                "Capital": "St. George's",
+                "Population": "33,734",
+                "% ofcountry": "27.1%",
+                "Source": "2012"
+            },
+            {
+                "Country / dependency": "Aruba (Netherlands)",
+                "Capital": "Oranjestad",
+                "Population": "28,294",
+                "% ofcountry": "26.6%",
+                "Source": "2010"
+            },
+            {
+                "Country / dependency": "Isle of Man (UK)",
+                "Capital": "Douglas",
+                "Population": "27,938",
+                "% ofcountry": "33.2%",
+                "Source": "2011"
+            },
+            {
+                "Country / dependency": "Marshall Islands",
+                "Capital": "Majuro",
+                "Population": "27,797",
+                "% ofcountry": "66.1%",
+                "Source": "2011"
+            },
+            {
+                "Country / dependency": "Tonga",
+                "Capital": "Nukuʻalofa",
+                "Population": "27,600",
+                "% ofcountry": "26.0%",
+                "Source": "2022"
+            },
+            {
+                "Country / dependency": "Seychelles",
+                "Capital": "Victoria",
+                "Population": "26,450",
+                "% ofcountry": "24.8%",
+                "Source": "2010"
+            },
+            {
+                "Country / dependency": "French Polynesia (France)",
+                "Capital": "Papeete",
+                "Population": "26,926",
+                "% ofcountry": "8.9%",
+                "Source": "2017"
+            },
+            {
+                "Country / dependency": "Andorra",
+                "Capital": "Andorra la Vella",
+                "Population": "22,873",
+                "% ofcountry": "28.9%",
+                "Source": "[86] 2022"
+            },
+            {
+                "Country / dependency": "Faroe Islands * (Denmark)",
+                "Capital": "Tórshavn",
+                "Population": "22,738",
+                "% ofcountry": "43.0%",
+                "Source": "[87] 2022"
+            },
+            {
+                "Country / dependency": "Antigua and Barbuda *",
+                "Capital": "St. John's",
+                "Population": "22,219",
+                "% ofcountry": "23.8%",
+                "Source": "2011"
+            },
+            {
+                "Country / dependency": "Belize",
+                "Capital": "Belmopan",
+                "Population": "20,621",
+                "% ofcountry": "5.2%",
+                "Source": "2016"
+            },
+            {
+                "Country / dependency": "Saint Lucia",
+                "Capital": "Castries",
+                "Population": "20,000",
+                "% ofcountry": "11.1%",
+                "Source": "2013"
+            },
+            {
+                "Country / dependency": "Guernsey (UK)",
+                "Capital": "Saint Peter Port",
+                "Population": "18,958",
+                "% ofcountry": "30.1%",
+                "Source": "2019"
+            },
+            {
+                "Country / dependency": "Greenland (Denmark)",
+                "Capital": "Nuuk",
+                "Population": "18,800",
+                "% ofcountry": "33.4%",
+                "Source": "2021"
+            },
+            {
+                "Country / dependency": "Dominica",
+                "Capital": "Roseau",
+                "Population": "14,725",
+                "% ofcountry": "20.3%",
+                "Source": "2011"
+            },
+            {
+                "Country / dependency": "U.S. Virgin Islands (US)",
+                "Capital": "Charlotte Amalie",
+                "Population": "14,477",
+                "% ofcountry": "14.5%",
+                "Source": "2020"
+            },
+            {
+                "Country / dependency": "Saint Kitts and Nevis",
+                "Capital": "Basseterre",
+                "Population": "14,000",
+                "% ofcountry": "29.4%",
+                "Source": "2018"
+            },
+            {
+                "Country / dependency": "Saint Vincent and the Grenadines",
+                "Capital": "Kingstown",
+                "Population": "12,909",
+                "% ofcountry": "12.4%",
+                "Source": "2012"
+            },
+            {
+                "Country / dependency": "British Virgin Islands (UK)",
+                "Capital": "Road Town",
+                "Population": "12,603",
+                "% ofcountry": "40.5%",
+                "Source": "2012"
+            },
+            {
+                "Country / dependency": "Åland (Finland)",
+                "Capital": "Mariehamn",
+                "Population": "11,736",
+                "% ofcountry": "39.0%",
+                "Source": "[64] 2021"
+            },
+            {
+                "Country / dependency": "Micronesia",
+                "Capital": "Palikir",
+                "Population": "6,647",
+                "% ofcountry": "5.9%",
+                "Source": "2010"
+            },
+            {
+                "Country / dependency": "Tuvalu",
+                "Capital": "Funafuti",
+                "Population": "6,320",
+                "% ofcountry": "56.4%",
+                "Source": "2017"
+            },
+            {
+                "Country / dependency": "Malta",
+                "Capital": "Valletta",
+                "Population": "5,827",
+                "% ofcountry": "1.1%",
+                "Source": "2019"
+            },
+            {
+                "Country / dependency": "Liechtenstein",
+                "Capital": "Vaduz",
+                "Population": "5,774",
+                "% ofcountry": "14.8%",
+                "Source": "[88] 2021"
+            },
+            {
+                "Country / dependency": "Saint Pierre and Miquelon (France)",
+                "Capital": "Saint-Pierre",
+                "Population": "5,394",
+                "% ofcountry": "91.7%",
+                "Source": "2019"
+            },
+            {
+                "Country / dependency": "Cook Islands",
+                "Capital": "Avarua",
+                "Population": "4,906",
+                "% ofcountry": "28.9%",
+                "Source": "2016"
+            },
+            {
+                "Country / dependency": "San Marino",
+                "Capital": "City of San Marino",
+                "Population": "4,061",
+                "% ofcountry": "12.0%",
+                "Source": "[89] 2021"
+            },
+            {
+                "Country / dependency": "Turks and Caicos Islands (UK)",
+                "Capital": "Cockburn Town",
+                "Population": "3,720",
+                "% ofcountry": "8.2%",
+                "Source": "2016"
+            },
+            {
+                "Country / dependency": "American Samoa (USA)",
+                "Capital": "Pago Pago",
+                "Population": "3,656",
+                "% ofcountry": "8.1%",
+                "Source": "2010"
+            },
+            {
+                "Country / dependency": "Saint Martin (France)",
+                "Capital": "Marigot",
+                "Population": "3,229",
+                "% ofcountry": "10.1%",
+                "Source": "2017"
+            },
+            {
+                "Country / dependency": "Saint Barthélemy (France)",
+                "Capital": "Gustavia",
+                "Population": "2,615",
+                "% ofcountry": "24.1%",
+                "Source": "2010"
+            },
+            {
+                "Country / dependency": "Falkland Islands (UK)",
+                "Capital": "Stanley",
+                "Population": "2,460",
+                "% ofcountry": "65.4%",
+                "Source": "2016"
+            },
+            {
+                "Country / dependency": "Svalbard (Norway)",
+                "Capital": "Longyearbyen",
+                "Population": "2,417",
+                "% ofcountry": "82.2%",
+                "Source": "2020"
+            },
+            {
+                "Country / dependency": "Sint Maarten (Netherlands)",
+                "Capital": "Philipsburg",
+                "Population": "1,894",
+                "% ofcountry": "4.3%",
+                "Source": "2011"
+            },
+            {
+                "Country / dependency": "Christmas Island (Australia)",
+                "Capital": "Flying Fish Cove",
+                "Population": "1,599",
+                "% ofcountry": "86.8%",
+                "Source": "2016"
+            },
+            {
+                "Country / dependency": "Anguilla (UK)",
+                "Capital": "The Valley",
+                "Population": "1,067",
+                "% ofcountry": "6.8%",
+                "Source": "2011"
+            },
+            {
+                "Country / dependency": "Guam (US)",
+                "Capital": "Hagåtña",
+                "Population": "1,051",
+                "% ofcountry": "0.6%",
+                "Source": "2010"
+            },
+            {
+                "Country / dependency": "Wallis and Futuna (France)",
+                "Capital": "Mata Utu",
+                "Population": "1,029",
+                "% ofcountry": "8.9%",
+                "Source": "2018"
+            },
+            {
+                "Country / dependency": "Bermuda (UK)",
+                "Capital": "Hamilton",
+                "Population": "854",
+                "% ofcountry": "1.3%",
+                "Source": "[90] 2016"
+            },
+            {
+                "Country / dependency": "Nauru",
+                "Capital": "Yaren (de facto)",
+                "Population": "747",
+                "% ofcountry": "6.0%",
+                "Source": "2011"
+            },
+            {
+                "Country / dependency": "Saint Helena (UK)",
+                "Capital": "Jamestown",
+                "Population": "629",
+                "% ofcountry": "11.6%",
+                "Source": "2016"
+            },
+            {
+                "Country / dependency": "Niue",
+                "Capital": "Alofi",
+                "Population": "597",
+                "% ofcountry": "30.8%",
+                "Source": "2017"
+            },
+            {
+                "Country / dependency": "Tokelau (NZ)",
+                "Capital": "Atafu",
+                "Population": "541",
+                "% ofcountry": "29.3%",
+                "Source": "2016"
+            },
+            {
+                "Country / dependency": "Vatican City",
+                "Capital": "Vatican City",
+                "Population": "764",
+                "% ofcountry": "100%",
+                "Source": "[91] 2023"
+            },
+            {
+                "Country / dependency": "Montserrat (UK)",
+                "Capital": "Brades (de facto)Plymouth (de jure)",
+                "Population": "4490",
+                "% ofcountry": "—",
+                "Source": "2011"
+            },
+            {
+                "Country / dependency": "Norfolk Island (Australia)",
+                "Capital": "Kingston",
+                "Population": "341",
+                "% ofcountry": "19.5%",
+                "Source": "[92] 2015"
+            },
+            {
+                "Country / dependency": "Cocos (Keeling) Islands (Australia)",
+                "Capital": "West Island",
+                "Population": "134",
+                "% ofcountry": "24.6%",
+                "Source": "2011"
+            },
+            {
+                "Country / dependency": "Pitcairn Islands (UK)",
+                "Capital": "Adamstown",
+                "Population": "40",
+                "% ofcountry": "100%",
+                "Source": "2021"
+            },
+            {
+                "Country / dependency": "South Georgia and the South Sandwich Islands (UK)",
+                "Capital": "King Edward Point",
+                "Population": "22",
+                "% ofcountry": "73.3%",
+                "Source": "2018"
+            },
+            {
+                "Country / dependency": "Palau",
+                "Capital": "Ngerulmud",
+                "Population": "0",
+                "% ofcountry": "0.0%",
+                "Source": "[93] 2020"
+            }
+        ]
+    },
+    {
+        "title": "List of national capitals by area - Wikipedia",
+        "header": "List of national capitals by area",
+        "url": "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+        "table": [
+            {
+                "Rank": "1",
+                "Country/Territory": "Turkey",
+                "Capital": "Ankara",
+                "Area": "24,521",
+                "(km2)": "9,468",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "2",
+                "Country/Territory": "People's Republic of China",
+                "Capital": "Beijing[1]",
+                "Area": "16,410.5",
+                "(km2)": "6,336",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "3",
+                "Country/Territory": "Myanmar (Burma)",
+                "Capital": "Naypyidaw[2]",
+                "Area": "7,054",
+                "(km2)": "2,724",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "4",
+                "Country/Territory": "Brazil",
+                "Capital": "Brasília",
+                "Area": "5,802",
+                "(km2)": "2,240",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "5",
+                "Country/Territory": "Namibia",
+                "Capital": "Windhoek",
+                "Area": "5,133",
+                "(km2)": "1,982",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "6",
+                "Country/Territory": "Mongolia",
+                "Capital": "Ulaanbaatar",
+                "Area": "4,704.4",
+                "(km2)": "1,816.3",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "7",
+                "Country/Territory": "Vietnam",
+                "Capital": "Hà Nội",
+                "Area": "3,358.6",
+                "(km2)": "1,296.8",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "8",
+                "Country/Territory": "North Korea",
+                "Capital": "Pyongyang",
+                "Area": "3,194",
+                "(km2)": "1,233",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "9",
+                "Country/Territory": "Egypt",
+                "Capital": "Cairo",
+                "Area": "3,085.12",
+                "(km2)": "1,191.17",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "10",
+                "Country/Territory": "Canada",
+                "Capital": "Ottawa",
+                "Area": "2,970.30",
+                "(km2)": "1,077.34",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "11",
+                "Country/Territory": "Hong Kong (China)",
+                "Capital": "Central",
+                "Area": "2,754.97",
+                "(km2)": "1,063.70",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "11",
+                "Country/Territory": "Peru",
+                "Capital": "Lima",
+                "Area": "2,672.3",
+                "(km2)": "1,031.8",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "12",
+                "Country/Territory": "Tanzania[3]",
+                "Capital": "Dodoma (official and legislative capital)",
+                "Area": "2,576",
+                "(km2)": "995",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "13",
+                "Country/Territory": "Russia",
+                "Capital": "Moscow",
+                "Area": "2,511",
+                "(km2)": "970",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "14",
+                "Country/Territory": "Japan",
+                "Capital": "Tokyo",
+                "Area": "2,194.07[4]",
+                "(km2)": "847.14[4]",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "15",
+                "Country/Territory": "Azerbaijan",
+                "Capital": "Baku",
+                "Area": "2,140",
+                "(km2)": "830",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "18",
+                "Country/Territory": "Côte d'Ivoire[3]",
+                "Capital": "Abidjan (de facto)",
+                "Area": "2,119",
+                "(km2)": "818",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "19",
+                "Country/Territory": "Côte d'Ivoire",
+                "Capital": "Yamoussoukro",
+                "Area": "2,075",
+                "(km2)": "801",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "20",
+                "Country/Territory": "Saudi Arabia",
+                "Capital": "Riyadh",
+                "Area": "1,973",
+                "(km2)": "76",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "21",
+                "Country/Territory": "Bolivia[3]",
+                "Capital": "Sucre (constitutional and judicial capital)",
+                "Area": "1,768",
+                "(km2)": "683",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "22",
+                "Country/Territory": "Jordan",
+                "Capital": "Amman",
+                "Area": "1,680",
+                "(km2)": "650",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "23",
+                "Country/Territory": "United Kingdom",
+                "Capital": "London",
+                "Area": "1,572",
+                "(km2)": "607",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "24",
+                "Country/Territory": "Thailand",
+                "Capital": "Bangkok",
+                "Area": "1,568.737",
+                "(km2)": "605.693",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "25",
+                "Country/Territory": "Libya",
+                "Capital": "Tripoli",
+                "Area": "1,507",
+                "(km2)": "582",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "26",
+                "Country/Territory": "Honduras[3]",
+                "Capital": "Tegucigalpa (de facto and official constitutional capital) and Comayagüela (official constitutional capital)",
+                "Area": "1,502",
+                "(km2)": "v580",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "27",
+                "Country/Territory": "Tanzania[3]",
+                "Capital": "Dar es Salaam (de facto and jurisdictional capital)",
+                "Area": "1,493",
+                "(km2)": "576",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "28",
+                "Country/Territory": "Mexico",
+                "Capital": "Mexico City",
+                "Area": "1,485",
+                "(km2)": "573",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "29",
+                "Country/Territory": "Italy",
+                "Capital": "Rome",
+                "Area": "1,285",
+                "(km2)": "496.3",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "2",
+                "Country/Territory": "Sudan",
+                "Capital": "Khartoum",
+                "Area": "1,010",
+                "(km2)": "390",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "24",
+                "Country/Territory": "Colombia",
+                "Capital": "Bogotá",
+                "Area": "307.36",
+                "(km2)": "118.67",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "31",
+                "Country/Territory": "Iran",
+                "Capital": "Tehran",
+                "Area": "615",
+                "(km2)": "237",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "32",
+                "Country/Territory": "Mauritania",
+                "Capital": "Nouakchott",
+                "Area": "401",
+                "(km2)": "155",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "33",
+                "Country/Territory": "United Arab Emirates",
+                "Capital": "Abu Dhabi",
+                "Area": "972",
+                "(km2)": "375",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "34",
+                "Country/Territory": "Zimbabwe",
+                "Capital": "Harare",
+                "Area": "960.6",
+                "(km2)": "370.9",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "35",
+                "Country/Territory": "Montenegro",
+                "Capital": "Cetinje (seat of President of Montenegro)",
+                "Area": "910",
+                "(km2)": "910",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "36",
+                "Country/Territory": "Germany",
+                "Capital": "Berlin",
+                "Area": "891.7",
+                "(km2)": "344.3",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "37",
+                "Country/Territory": "Ukraine",
+                "Capital": "Kyiv",
+                "Area": "780",
+                "(km2)": "300",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "38",
+                "Country/Territory": "Australia",
+                "Capital": "Canberra",
+                "Area": "814.2",
+                "(km2)": "314.4",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "39",
+                "Country/Territory": "Kazakhstan",
+                "Capital": "Astana",
+                "Area": "722",
+                "(km2)": "278.8",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "41",
+                "Country/Territory": "Yemen[3]",
+                "Capital": "Aden (temporary capital)[5]",
+                "Area": "760",
+                "(km2)": "290",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "42",
+                "Country/Territory": "Rwanda",
+                "Capital": "Kigali",
+                "Area": "730",
+                "(km2)": "281.8",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "43",
+                "Country/Territory": "Cuba",
+                "Capital": "Havana",
+                "Area": "728.26",
+                "(km2)": "281.18",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "44",
+                "Country/Territory": "Malawi",
+                "Capital": "Lilongwe",
+                "Area": "727.79",
+                "(km2)": "281.00",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "45",
+                "Country/Territory": "Singapore",
+                "Capital": "Central Area",
+                "Area": "17.84",
+                "(km2)": "6.89",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "46",
+                "Country/Territory": "Finland",
+                "Capital": "Helsinki",
+                "Area": "715.48",
+                "(km2)": "276.25",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "47",
+                "Country/Territory": "Nigeria",
+                "Capital": "Abuja",
+                "Area": "713",
+                "(km2)": "275",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "48",
+                "Country/Territory": "Kenya",
+                "Capital": "Nairobi",
+                "Area": "696",
+                "(km2)": "269",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "49",
+                "Country/Territory": "Greenland (Denmark)",
+                "Capital": "Nuuk",
+                "Area": "690",
+                "(km2)": "265",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "50",
+                "Country/Territory": "South Africa[3]",
+                "Capital": "Pretoria (administrative and executive capital)",
+                "Area": "687.54",
+                "(km2)": "265.46",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "51",
+                "Country/Territory": "Cambodia",
+                "Capital": "Phnom Penh",
+                "Area": "679",
+                "(km2)": "262",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "52",
+                "Country/Territory": "Iraq",
+                "Capital": "Baghdad",
+                "Area": "673",
+                "(km2)": "260",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "53",
+                "Country/Territory": "Indonesia",
+                "Capital": "Jakarta",
+                "Area": "662.3",
+                "(km2)": "255.7",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "54",
+                "Country/Territory": "Chile[3]",
+                "Capital": "Santiago (official)",
+                "Area": "641",
+                "(km2)": "247.6",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "55",
+                "Country/Territory": "Croatia",
+                "Capital": "Zagreb",
+                "Area": "641",
+                "(km2)": "247.6",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "56",
+                "Country/Territory": "South Korea",
+                "Capital": "Seoul",
+                "Area": "605.21",
+                "(km2)": "233.67",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "57",
+                "Country/Territory": "Spain",
+                "Capital": "Madrid",
+                "Area": "604.31",
+                "(km2)": "233.33",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "58",
+                "Country/Territory": "Democratic Republic of the Congo",
+                "Capital": "Kinshasa",
+                "Area": "600",
+                "(km2)": "200",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "59",
+                "Country/Territory": "Ethiopia",
+                "Capital": "Addis Ababa",
+                "Area": "527",
+                "(km2)": "203",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "60",
+                "Country/Territory": "Hungary",
+                "Capital": "Budapest",
+                "Area": "525.2",
+                "(km2)": "202.8",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "61",
+                "Country/Territory": "Kosovo",
+                "Capital": "Prishtina",
+                "Area": "523.13",
+                "(km2)": "201.98",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "62",
+                "Country/Territory": "Poland",
+                "Capital": "Warsaw",
+                "Area": "517.24",
+                "(km2)": "199.71",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "63",
+                "Country/Territory": "Georgia",
+                "Capital": "Tbilisi",
+                "Area": "504.2",
+                "(km2)": "194.7",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "64",
+                "Country/Territory": "Kiribati",
+                "Capital": "South Tarawa",
+                "Area": "15.76",
+                "(km2)": "6.08",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "65",
+                "Country/Territory": "Czech Republic",
+                "Capital": "Prague",
+                "Area": "496",
+                "(km2)": "192",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "66",
+                "Country/Territory": "Bulgaria",
+                "Capital": "Sofia",
+                "Area": "492",
+                "(km2)": "189",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "67",
+                "Country/Territory": "Norway",
+                "Capital": "Oslo",
+                "Area": "480.75",
+                "(km2)": "185.62",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "68",
+                "Country/Territory": "Jamaica",
+                "Capital": "Kingston",
+                "Area": "22.7",
+                "(km2)": "8.8",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "69",
+                "Country/Territory": "Bolivia[3]",
+                "Capital": "La Paz (seat of national executive, legislative and electoral bodies)",
+                "Area": "216",
+                "(km2)": "83",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "70",
+                "Country/Territory": "Guinea",
+                "Capital": "Conakry",
+                "Area": "190",
+                "(km2)": "73",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "71",
+                "Country/Territory": "New Zealand",
+                "Capital": "Wellington",
+                "Area": "289.91",
+                "(km2)": "111.93",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "72",
+                "Country/Territory": "Turkmenistan",
+                "Capital": "Ashgabat",
+                "Area": "834",
+                "(km2)": "322",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "73",
+                "Country/Territory": "Venezuela",
+                "Capital": "Caracas",
+                "Area": "433",
+                "(km2)": "167",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "74",
+                "Country/Territory": "Zambia",
+                "Capital": "Lusaka",
+                "Area": "360",
+                "(km2)": "140",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "75",
+                "Country/Territory": "Austria",
+                "Capital": "Vienna",
+                "Area": "414.78",
+                "(km2)": "160.15",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "76",
+                "Country/Territory": "Belarus",
+                "Capital": "Minsk",
+                "Area": "409.5",
+                "(km2)": "158.1",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "77",
+                "Country/Territory": "Chile",
+                "Capital": "Valparaíso (seat of national legislature)",
+                "Area": "47.33",
+                "(km2)": "18.27",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "78",
+                "Country/Territory": "Lithuania",
+                "Capital": "Vilnius",
+                "Area": "401",
+                "(km2)": "155",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "79",
+                "Country/Territory": "South Africa[3]",
+                "Capital": "Cape Town (legislative capital)",
+                "Area": "400.28",
+                "(km2)": "154.55",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "80",
+                "Country/Territory": "Ecuador",
+                "Capital": "Quito",
+                "Area": "372.39",
+                "(km2)": "143.78",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "81",
+                "Country/Territory": "Slovakia",
+                "Capital": "Bratislava",
+                "Area": "367.584",
+                "(km2)": "141.925",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "82",
+                "Country/Territory": "Algeria",
+                "Capital": "Algiers",
+                "Area": "363",
+                "(km2)": "140",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "83",
+                "Country/Territory": "Serbia",
+                "Capital": "Belgrade",
+                "Area": "359.9",
+                "(km2)": "139.0",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "84",
+                "Country/Territory": "Mozambique",
+                "Capital": "Maputo",
+                "Area": "347.69",
+                "(km2)": "134.24",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "85",
+                "Country/Territory": "North Macedonia",
+                "Capital": "Skopje",
+                "Area": "337.80",
+                "(km2)": "130.43",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "86",
+                "Country/Territory": "Uzbekistan",
+                "Capital": "Tashkent",
+                "Area": "334.8",
+                "(km2)": "129.3",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "87",
+                "Country/Territory": "Latvia",
+                "Capital": "Riga",
+                "Area": "304[6]",
+                "(km2)": "117.375[citation needed]",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "88",
+                "Country/Territory": "Bangladesh",
+                "Capital": "Dhaka",
+                "Area": "305.47",
+                "(km2)": "117.94",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "89",
+                "Country/Territory": "Afghanistan",
+                "Capital": "Kabul",
+                "Area": "1,028.24",
+                "(km2)": "397.01",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "90",
+                "Country/Territory": "Panama",
+                "Capital": "Panama City",
+                "Area": "275",
+                "(km2)": "106",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "91",
+                "Country/Territory": "Oman",
+                "Capital": "Muscat",
+                "Area": "273.9",
+                "(km2)": "105.8",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "92",
+                "Country/Territory": "Iceland",
+                "Capital": "Reykjavík",
+                "Area": "273",
+                "(km2)": "105",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "93",
+                "Country/Territory": "Republic of China",
+                "Capital": "Taipei",
+                "Area": "271.80",
+                "(km2)": "104.94",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "94",
+                "Country/Territory": "Nicaragua",
+                "Capital": "Managua",
+                "Area": "267.17",
+                "(km2)": "103.15",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "",
+                "Country/Territory": "Scotland (United Kingdom)",
+                "Capital": "Edinburgh",
+                "Area": "264",
+                "(km2)": "102",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "95",
+                "Country/Territory": "Republic of the Congo",
+                "Capital": "Brazzaville",
+                "Area": "263.9",
+                "(km2)": "101.9",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "96",
+                "Country/Territory": "Mali",
+                "Capital": "Bamako",
+                "Area": "245.0",
+                "(km2)": "94.6",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "97",
+                "Country/Territory": "Malaysia[3]",
+                "Capital": "Kuala Lumpur (official, royal capital, seat of national legislature)",
+                "Area": "243",
+                "(km2)": "94",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "98",
+                "Country/Territory": "Papua New Guinea",
+                "Capital": "Port Moresby",
+                "Area": "240",
+                "(km2)": "92.66",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "99",
+                "Country/Territory": "Niger",
+                "Capital": "Niamey",
+                "Area": "239.30",
+                "(km2)": "92.39",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "100",
+                "Country/Territory": "Romania",
+                "Capital": "Bucharest",
+                "Area": "238",
+                "(km2)": "92",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "101",
+                "Country/Territory": "South Africa",
+                "Capital": "Bloemfontein (judicial capital)",
+                "Area": "236.17",
+                "(km2)": "91.19",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "102",
+                "Country/Territory": "Armenia",
+                "Capital": "Yerevan",
+                "Area": "223",
+                "(km2)": "86",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "103",
+                "Country/Territory": "Pakistan",
+                "Capital": "Islamabad",
+                "Area": "220.15",
+                "(km2)": "85",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "104",
+                "Country/Territory": "Guatemala",
+                "Capital": "Guatemala City",
+                "Area": "219.9",
+                "(km2)": "84.9",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "105",
+                "Country/Territory": "Netherlands",
+                "Capital": "Amsterdam (de jure capital under the Constitution of the Netherlands)",
+                "Area": "219.32",
+                "(km2)": "84.68",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "106",
+                "Country/Territory": "Tunisia",
+                "Capital": "Tunis",
+                "Area": "212.63",
+                "(km2)": "82.10",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "107",
+                "Country/Territory": "Bahamas",
+                "Capital": "Nassau",
+                "Area": "207",
+                "(km2)": "80",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "108",
+                "Country/Territory": "Argentina",
+                "Capital": "Buenos Aires",
+                "Area": "203",
+                "(km2)": "78",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "109",
+                "Country/Territory": "Uruguay",
+                "Capital": "Montevideo",
+                "Area": "201",
+                "(km2)": "77.5",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "110",
+                "Country/Territory": "Kuwait",
+                "Capital": "Kuwait City",
+                "Area": "130",
+                "(km2)": "50",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "111",
+                "Country/Territory": "Puerto Rico (United States)",
+                "Capital": "San Juan",
+                "Area": "199",
+                "(km2)": "77.0",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "112",
+                "Country/Territory": "Liberia",
+                "Capital": "Monrovia",
+                "Area": "20",
+                "(km2)": "7.7",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "113",
+                "Country/Territory": "Uganda",
+                "Capital": "Kampala",
+                "Area": "189[citation needed]",
+                "(km2)": "73[citation needed]",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "114",
+                "Country/Territory": "Sweden",
+                "Capital": "Stockholm",
+                "Area": "188",
+                "(km2)": "72.5",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "115",
+                "Country/Territory": "Suriname",
+                "Capital": "Paramaribo",
+                "Area": "182",
+                "(km2)": "70.27",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "116",
+                "Country/Territory": "Cameroon",
+                "Capital": "Yaoundé",
+                "Area": "180[citation needed]",
+                "(km2)": "70[citation needed]",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "117",
+                "Country/Territory": "Denmark",
+                "Capital": "Copenhagen",
+                "Area": "179.8",
+                "(km2)": "69.4",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "118",
+                "Country/Territory": "United States",
+                "Capital": "Washington, D.C.",
+                "Area": "177.0",
+                "(km2)": "68.34",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "119",
+                "Country/Territory": "Ghana",
+                "Capital": "Accra",
+                "Area": "173[citation needed]",
+                "(km2)": "67[citation needed]",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "120",
+                "Country/Territory": "Faroe Islands (Denmark)",
+                "Capital": "Tórshavn",
+                "Area": "172.9",
+                "(km2)": "66.8",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "121",
+                "Country/Territory": "Kyrgyzstan",
+                "Capital": "Bishkek",
+                "Area": "169.9",
+                "(km2)": "65.6",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "122",
+                "Country/Territory": "Botswana",
+                "Capital": "Gaborone",
+                "Area": "169",
+                "(km2)": "65",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "123",
+                "Country/Territory": "Slovenia",
+                "Capital": "Ljubljana",
+                "Area": "163.8",
+                "(km2)": "63.2",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "124",
+                "Country/Territory": "Estonia",
+                "Capital": "Tallinn",
+                "Area": "159.2",
+                "(km2)": "61.5",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "125",
+                "Country/Territory": "Bosnia and Herzegovina",
+                "Capital": "Sarajevo",
+                "Area": "141.5",
+                "(km2)": "54.6",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "126",
+                "Country/Territory": "Lesotho",
+                "Capital": "Maseru",
+                "Area": "138",
+                "(km2)": "53",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "127",
+                "Country/Territory": "Qatar",
+                "Capital": "Doha",
+                "Area": "132",
+                "(km2)": "51",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "128",
+                "Country/Territory": "Lao People's Democratic Republic",
+                "Capital": "Vientiane",
+                "Area": "130[citation needed]",
+                "(km2)": "50[citation needed]",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "129",
+                "Country/Territory": "Yemen[3]",
+                "Capital": "Sana'a (official capital, under the control of the Houthis)[5]",
+                "Area": "126",
+                "(km2)": "49",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "130",
+                "Country/Territory": "Israel",
+                "Capital": "Jerusalem[7][8]",
+                "Area": "125.126",
+                "(km2)": "48.323",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "131",
+                "Country/Territory": "Tajikistan",
+                "Capital": "Dushanbe",
+                "Area": "124.6",
+                "(km2)": "48.1",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "132",
+                "Country/Territory": "Samoa",
+                "Capital": "Apia",
+                "Area": "60",
+                "(km2)": "23",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "133",
+                "Country/Territory": "Moldova",
+                "Capital": "Chișinău",
+                "Area": "123",
+                "(km2)": "47",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "134",
+                "Country/Territory": "Morocco",
+                "Capital": "Rabat",
+                "Area": "117[citation needed]",
+                "(km2)": "45.17[citation needed]",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "135",
+                "Country/Territory": "Paraguay",
+                "Capital": "Asunción",
+                "Area": "117",
+                "(km2)": "45.17",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "136",
+                "Country/Territory": "Angola",
+                "Capital": "Luanda",
+                "Area": "116",
+                "(km2)": "45",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "137",
+                "Country/Territory": "Northern Mariana Islands (United States)",
+                "Capital": "Saipan",
+                "Area": "115.4",
+                "(km2)": "44.55",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "138",
+                "Country/Territory": "Macau (China)",
+                "Capital": "Macau",
+                "Area": "118",
+                "(km2)": "45.560055",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "139",
+                "Country/Territory": "Ireland",
+                "Capital": "Dublin",
+                "Area": "117.8",
+                "(km2)": "45.5",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "140",
+                "Country/Territory": "Benin[3]",
+                "Capital": "Porto-Novo (official and legislative capital)",
+                "Area": "110[citation needed]",
+                "(km2)": "42.47[citation needed]",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "141",
+                "Country/Territory": "Montenegro[3]",
+                "Capital": "Podgorica (official capital)",
+                "Area": "108",
+                "(km2)": "42",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "142",
+                "Country/Territory": "France",
+                "Capital": "Paris",
+                "Area": "105.4",
+                "(km2)": "40.7",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "143",
+                "Country/Territory": "Syria",
+                "Capital": "Damascus",
+                "Area": "105",
+                "(km2)": "40.5",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "144",
+                "Country/Territory": "Dominican Republic",
+                "Capital": "Santo Domingo",
+                "Area": "104.44",
+                "(km2)": "40.32",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "145",
+                "Country/Territory": "Chad",
+                "Capital": "N'Djamena",
+                "Area": "104[citation needed]",
+                "(km2)": "40[citation needed]",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "146",
+                "Country/Territory": "Cabo Verde",
+                "Capital": "Praia",
+                "Area": "42.5",
+                "(km2)": "16.4",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "147",
+                "Country/Territory": "Brunei",
+                "Capital": "Bandar Seri Begawan",
+                "Area": "100.36",
+                "(km2)": "38.75",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "148",
+                "Country/Territory": "Portugal",
+                "Capital": "Lisbon",
+                "Area": "100.05",
+                "(km2)": "38.63",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "149",
+                "Country/Territory": "Togo",
+                "Capital": "Lomé",
+                "Area": "99.14[citation needed]",
+                "(km2)": "38.28[citation needed]",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "150",
+                "Country/Territory": "Netherlands[3]",
+                "Capital": "The Hague (seat of government)",
+                "Area": "98.12",
+                "(km2)": "37.88",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "151",
+                "Country/Territory": "Northern Cyprus",
+                "Capital": "North Nicosia",
+                "Area": "92.8",
+                "(km2)": "35.8",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "152",
+                "Country/Territory": "Somalia",
+                "Capital": "Mogadishu",
+                "Area": "204[citation needed]",
+                "(km2)": "78.7[citation needed]",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "153",
+                "Country/Territory": "Madagascar",
+                "Capital": "Antananarivo",
+                "Area": "88[citation needed]",
+                "(km2)": "34[citation needed]",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "154",
+                "Country/Territory": "Senegal",
+                "Capital": "Dakar",
+                "Area": "83",
+                "(km2)": "32",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "155",
+                "Country/Territory": "eSwatini[3]",
+                "Capital": "Mbabane (administrative capital)",
+                "Area": "81.76",
+                "(km2)": "31.57",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "156",
+                "Country/Territory": "Sierra Leone",
+                "Capital": "Freetown",
+                "Area": "81.48",
+                "(km2)": "31.46",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "157",
+                "Country/Territory": "Benin",
+                "Capital": "Cotonou (de facto and judicial capital)",
+                "Area": "79[citation needed]",
+                "(km2)": "30.5[citation needed]",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "158",
+                "Country/Territory": "Saint Lucia",
+                "Capital": "Castries",
+                "Area": "79[citation needed]",
+                "(km2)": "30.5[citation needed]",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "159",
+                "Country/Territory": "Guinea-Bissau",
+                "Capital": "Bissau",
+                "Area": "77.5",
+                "(km2)": "29.9",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "160",
+                "Country/Territory": "El Salvador",
+                "Capital": "San Salvador",
+                "Area": "72.25[citation needed]",
+                "(km2)": "27.90[citation needed]",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "161",
+                "Country/Territory": "Guyana",
+                "Capital": "Georgetown",
+                "Area": "70[citation needed]",
+                "(km2)": "27.02[citation needed]",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "162",
+                "Country/Territory": "Central African Republic",
+                "Capital": "Bangui",
+                "Area": "67",
+                "(km2)": "26",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "163",
+                "Country/Territory": "Gabon",
+                "Capital": "Libreville",
+                "Area": "65.42[citation needed]",
+                "(km2)": "25.26[citation needed]",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "164",
+                "Country/Territory": "Transnistria",
+                "Capital": "Tiraspol",
+                "Area": "55.56[citation needed]",
+                "(km2)": "21.45[citation needed]",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "165",
+                "Country/Territory": "South Sudan",
+                "Capital": "Juba",
+                "Area": "52[citation needed]",
+                "(km2)": "20[citation needed]",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "166",
+                "Country/Territory": "Switzerland[9]",
+                "Capital": "Berne (de facto)",
+                "Area": "51.62",
+                "(km2)": "19.93",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "167",
+                "Country/Territory": "Luxembourg",
+                "Capital": "Luxembourg City",
+                "Area": "51.46",
+                "(km2)": "19.87",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "168",
+                "Country/Territory": "Cyprus",
+                "Capital": "Nicosia",
+                "Area": "51.06",
+                "(km2)": "19.71",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "169",
+                "Country/Territory": "Nepal",
+                "Capital": "Kathmandu",
+                "Area": "49.45",
+                "(km2)": "19.09",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "170",
+                "Country/Territory": "Malaysia[3]",
+                "Capital": "Putrajaya (administrative and judicial capital)",
+                "Area": "49",
+                "(km2)": "19",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "171",
+                "Country/Territory": "East Timor",
+                "Capital": "Dili",
+                "Area": "48.27[citation needed]",
+                "(km2)": "18.64[citation needed]",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "172",
+                "Country/Territory": "Mauritius",
+                "Capital": "Port Louis",
+                "Area": "46.7",
+                "(km2)": "18.0",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "173",
+                "Country/Territory": "Niue (New Zealand)",
+                "Capital": "Alofi",
+                "Area": "46.48[citation needed]",
+                "(km2)": "17.95[citation needed]",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "174",
+                "Country/Territory": "New Caledonia (France)",
+                "Capital": "Nouméa",
+                "Area": "45.7[citation needed]",
+                "(km2)": "17.6[citation needed]",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "175",
+                "Country/Territory": "Eritrea",
+                "Capital": "Asmara",
+                "Area": "45[citation needed]",
+                "(km2)": "17.37[citation needed]",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "176",
+                "Country/Territory": "Costa Rica",
+                "Capital": "San José",
+                "Area": "44.62",
+                "(km2)": "17.23",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "177",
+                "Country/Territory": "Philippines",
+                "Capital": "Manila",
+                "Area": "42.88",
+                "(km2)": "16.56",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "29",
+                "Country/Territory": "India",
+                "Capital": "New Delhi",
+                "Area": "42.7",
+                "(km2)": "16.5",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "179",
+                "Country/Territory": "Albania",
+                "Capital": "Tirana",
+                "Area": "41.8",
+                "(km2)": "16.1",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "180",
+                "Country/Territory": "Barbados",
+                "Capital": "Bridgetown",
+                "Area": "40[citation needed]",
+                "(km2)": "15.444[citation needed]",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "181",
+                "Country/Territory": "Greece",
+                "Capital": "Athens",
+                "Area": "38.964",
+                "(km2)": "15.044",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "182",
+                "Country/Territory": "Sri Lanka[3]",
+                "Capital": "Colombo (executive and judicial capital)",
+                "Area": "37.31",
+                "(km2)": "14.41",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "183",
+                "Country/Territory": "Haiti",
+                "Capital": "Port-au-Prince",
+                "Area": "36.04",
+                "(km2)": "13.92",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "184",
+                "Country/Territory": "Belize",
+                "Capital": "Belmopan",
+                "Area": "32.78",
+                "(km2)": "12.66",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "185",
+                "Country/Territory": "Belgium",
+                "Capital": "Brussels",
+                "Area": "32.61",
+                "(km2)": "12.59",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "186",
+                "Country/Territory": "Bahrain",
+                "Capital": "Manama",
+                "Area": "30[citation needed]",
+                "(km2)": "11.58[citation needed]",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "187",
+                "Country/Territory": "Comoros",
+                "Capital": "Moroni",
+                "Area": "30[citation needed]",
+                "(km2)": "11.58[citation needed]",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "188",
+                "Country/Territory": "Nagorno-Karabakh Republic",
+                "Capital": "Stepanakert",
+                "Area": "29.12",
+                "(km2)": "11.24",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "189",
+                "Country/Territory": "Cayman Islands (United Kingdom)",
+                "Capital": "George Town",
+                "Area": "29[citation needed]",
+                "(km2)": "11[citation needed]",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "190",
+                "Country/Territory": "Fiji",
+                "Capital": "Suva",
+                "Area": "26.24",
+                "(km2)": "",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "191",
+                "Country/Territory": "Bhutan",
+                "Capital": "Thimphu",
+                "Area": "26.1[citation needed]",
+                "(km2)": "10.1[citation needed]",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "192",
+                "Country/Territory": "Djibouti",
+                "Capital": "Djibouti City",
+                "Area": "26[citation needed]",
+                "(km2)": "10[citation needed]",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "193",
+                "Country/Territory": "Saint Pierre and Miquelon (France)",
+                "Capital": "Saint Pierre",
+                "Area": "25[citation needed]",
+                "(km2)": "9.65[citation needed]",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "194",
+                "Country/Territory": "Vanuatu",
+                "Capital": "Port Vila",
+                "Area": "23.6[citation needed]",
+                "(km2)": "9.1[citation needed]",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "195",
+                "Country/Territory": "Burundi",
+                "Capital": "Gitega",
+                "Area": "22[citation needed]",
+                "(km2)": "8.49[citation needed]",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "196",
+                "Country/Territory": "Solomon Islands",
+                "Capital": "Honiara",
+                "Area": "22",
+                "(km2)": "8.49",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "197",
+                "Country/Territory": "Equatorial Guinea",
+                "Capital": "Malabo",
+                "Area": "21[citation needed]",
+                "(km2)": "8.10[citation needed]",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "198",
+                "Country/Territory": "Sahrawi Arab Democratic Republic[3]",
+                "Capital": "El Aaiún (declared capital)",
+                "Area": "21[citation needed]",
+                "(km2)": "8.10[citation needed]",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "199",
+                "Country/Territory": "Åland (Finland)",
+                "Capital": "Mariehamn",
+                "Area": "20.75[citation needed]",
+                "(km2)": "8.01[citation needed]",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "200",
+                "Country/Territory": "Seychelles",
+                "Capital": "Victoria",
+                "Area": "20.1[citation needed]",
+                "(km2)": "7.8[citation needed]",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "201",
+                "Country/Territory": "Lebanon",
+                "Capital": "Beirut",
+                "Area": "19.8",
+                "(km2)": "7.6",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "202",
+                "Country/Territory": "French Polynesia (France)",
+                "Capital": "Papeete",
+                "Area": "17.4",
+                "(km2)": "6.718",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "203",
+                "Country/Territory": "Turks and Caicos Islands (United Kingdom)",
+                "Capital": "Cockburn Town",
+                "Area": "17.39",
+                "(km2)": "6.71",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "204",
+                "Country/Territory": "Liechtenstein",
+                "Capital": "Vaduz",
+                "Area": "17.3",
+                "(km2)": "6.7",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "205",
+                "Country/Territory": "São Tomé and Príncipe",
+                "Capital": "São Tomé",
+                "Area": "17[citation needed]",
+                "(km2)": "6.56[citation needed]",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "206",
+                "Country/Territory": "Sri Lanka[3]",
+                "Capital": "Sri Jayawardenepura Kotte (legislative capital)",
+                "Area": "17[citation needed]",
+                "(km2)": "6.56[citation needed]",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "207",
+                "Country/Territory": "Palestine",
+                "Capital": "Ramallah (de facto)",
+                "Area": "16.3",
+                "(km2)": "6.3",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "208",
+                "Country/Territory": "Andorra",
+                "Capital": "Andorra la Vella",
+                "Area": "12",
+                "(km2)": "5",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "209",
+                "Country/Territory": "The Gambia",
+                "Capital": "Banjul",
+                "Area": "12[citation needed]",
+                "(km2)": "5[citation needed]",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "210",
+                "Country/Territory": "Trinidad and Tobago",
+                "Capital": "Port of Spain",
+                "Area": "12",
+                "(km2)": "5",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "211",
+                "Country/Territory": "Jersey (United Kingdom)",
+                "Capital": "Saint Helier",
+                "Area": "10.6",
+                "(km2)": "4.1",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "212",
+                "Country/Territory": "Antigua and Barbuda",
+                "Capital": "Saint John's",
+                "Area": "10",
+                "(km2)": "4",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "213",
+                "Country/Territory": "Marshall Islands",
+                "Capital": "Majuro",
+                "Area": "9.7",
+                "(km2)": "3.7",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "214",
+                "Country/Territory": "San Marino",
+                "Capital": "City of San Marino",
+                "Area": "7.09",
+                "(km2)": "2.74",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "215",
+                "Country/Territory": "Gibraltar (United Kingdom)",
+                "Capital": "Gibraltar",
+                "Area": "6.7",
+                "(km2)": "2.6",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "216",
+                "Country/Territory": "Guernsey (United Kingdom)",
+                "Capital": "Saint Peter Port",
+                "Area": "6.5",
+                "(km2)": "2.5",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "217",
+                "Country/Territory": "Cocos (Keeling) Islands (Australia)",
+                "Capital": "West Island",
+                "Area": "6.23",
+                "(km2)": "2.41",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "218",
+                "Country/Territory": "Saint Kitts and Nevis",
+                "Capital": "Basseterre",
+                "Area": "6.1",
+                "(km2)": "2.35",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "219",
+                "Country/Territory": "Pitcairn Islands (United Kingdom)",
+                "Capital": "Adamstown",
+                "Area": "4.6",
+                "(km2)": "1.8",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "220",
+                "Country/Territory": "Saint Helena, Ascension and Tristan da Cunha (United Kingdom)",
+                "Capital": "Jamestown",
+                "Area": "3.6",
+                "(km2)": "1.4",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "221",
+                "Country/Territory": "Saint Barthélemy (France)",
+                "Capital": "Gustavia",
+                "Area": "3.4",
+                "(km2)": "1.3",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "222",
+                "Country/Territory": "United States Virgin Islands (United States)",
+                "Capital": "Charlotte Amalie",
+                "Area": "3.14",
+                "(km2)": "1.213",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "223",
+                "Country/Territory": "Guam (United States)",
+                "Capital": "Hagåtña",
+                "Area": "3",
+                "(km2)": "1.15",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "224",
+                "Country/Territory": "Falkland Islands (United Kingdom)",
+                "Capital": "Stanley",
+                "Area": "2.5",
+                "(km2)": "1.0",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "225",
+                "Country/Territory": "Tuvalu",
+                "Capital": "Funafuti",
+                "Area": "2.4",
+                "(km2)": "0.9",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "226",
+                "Country/Territory": "Monaco",
+                "Capital": "Monaco",
+                "Area": "2.1",
+                "(km2)": "0.81",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "227",
+                "Country/Territory": "Maldives",
+                "Capital": "Malé",
+                "Area": "1.95",
+                "(km2)": "0.75",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "228",
+                "Country/Territory": "Nauru",
+                "Capital": "Yaren (de facto)[10]",
+                "Area": "1.5",
+                "(km2)": "0.6",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "229",
+                "Country/Territory": "Bermuda (United Kingdom)",
+                "Capital": "Hamilton",
+                "Area": "0.7",
+                "(km2)": "0.28",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "230",
+                "Country/Territory": "Malta",
+                "Capital": "Valletta",
+                "Area": "0.61",
+                "(km2)": "0.24",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "231",
+                "Country/Territory": "Vatican City",
+                "Capital": "Vatican City",
+                "Area": "0.44",
+                "(km2)": "0.17",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "232",
+                "Country/Territory": "American Samoa (United States)",
+                "Capital": "Pago Pago",
+                "Area": "2.09",
+                "(km2)": "n/a",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "233",
+                "Country/Territory": "Anguilla (United Kingdom)",
+                "Capital": "The Valley",
+                "Area": "1.5",
+                "(km2)": "0.6",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "234",
+                "Country/Territory": "Aruba (Netherlands)",
+                "Capital": "Oranjestad",
+                "Area": "30",
+                "(km2)": "11",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "235",
+                "Country/Territory": "British Virgin Islands (United Kingdom)",
+                "Capital": "Road Town",
+                "Area": "7.17",
+                "(km2)": "n/a",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "236",
+                "Country/Territory": "Christmas Island (Australia)",
+                "Capital": "Flying Fish Cove",
+                "Area": "17",
+                "(km2)": "6.6",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "237",
+                "Country/Territory": "Collectivity of Saint Martin (France)",
+                "Capital": "Marigot",
+                "Area": "2",
+                "(km2)": "0.8",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "238",
+                "Country/Territory": "Cook Islands (New Zealand)",
+                "Capital": "Avarua",
+                "Area": "12",
+                "(km2)": "4.6",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "239",
+                "Country/Territory": "Dominica",
+                "Capital": "Roseau",
+                "Area": "12",
+                "(km2)": "4.6",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "240",
+                "Country/Territory": "Eswatini[3]",
+                "Capital": "Lobamba (legislative and royal capital)",
+                "Area": "34",
+                "(km2)": "13.1",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "241",
+                "Country/Territory": "Federated States of Micronesia",
+                "Capital": "Palikir",
+                "Area": "7",
+                "(km2)": "2.7",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "242",
+                "Country/Territory": "Grenada",
+                "Capital": "Saint George's",
+                "Area": "1.8",
+                "(km2)": "0.7",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "243",
+                "Country/Territory": "Isle of Man (United Kingdom)",
+                "Capital": "Douglas",
+                "Area": "4",
+                "(km2)": "1.5",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "244",
+                "Country/Territory": "Montserrat (United Kingdom)[3]",
+                "Capital": "Brades (de facto)[11]",
+                "Area": "0.36",
+                "(km2)": "0.14",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "245",
+                "Country/Territory": "Norfolk Island (Australia)",
+                "Capital": "Kingston (de facto)",
+                "Area": "2.3",
+                "(km2)": "0.89",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "246",
+                "Country/Territory": "Palau",
+                "Capital": "Ngerulmud",
+                "Area": "0.5",
+                "(km2)": "0.2",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "247",
+                "Country/Territory": "Sahrawi Arab Democratic Republic[3]",
+                "Capital": "Tifariti (temporary capital)",
+                "Area": "0.47[12]",
+                "(km2)": "n/a",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "248",
+                "Country/Territory": "Saint Vincent and the Grenadines",
+                "Capital": "Kingstown",
+                "Area": "2.5",
+                "(km2)": "0.97",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "249",
+                "Country/Territory": "Sint Maarten (Netherlands)",
+                "Capital": "Philipsburg",
+                "Area": "2.65",
+                "(km2)": "1.02",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "250",
+                "Country/Territory": "South Georgia and the South Sandwich Islands (United Kingdom)",
+                "Capital": "King Edward Point",
+                "Area": "1.4",
+                "(km2)": "0.54",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "251",
+                "Country/Territory": "Svalbard and Jan Mayen (Norway)",
+                "Capital": "Longyearbyen",
+                "Area": "4.9",
+                "(km2)": "1.9",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "252",
+                "Country/Territory": "Tonga",
+                "Capital": "Nuku'alofa",
+                "Area": "17.6",
+                "(km2)": "6.8",
+                "(sq mi)": null
+            },
+            {
+                "Rank": "253",
+                "Country/Territory": "Wallis and Futuna (France)",
+                "Capital": "Mata Utu",
+                "Area": "2.5",
+                "(km2)": "0.97",
+                "(sq mi)": null
+            }
+        ]
+    },
+    {
+        "title": "List of national capitals by latitude - Wikipedia",
+        "header": "List of national capitals by latitude",
+        "url": "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+        "table": [
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "−0.25",
+                "City": "Quito",
+                "Country": "Ecuador",
+                "Notes": "Highest official capital."
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "0.3",
+                "City": "Kampala",
+                "Country": "Uganda",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "0.33",
+                "City": "São Tomé",
+                "Country": "São Tomé and Príncipe",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "0.38",
+                "City": "Libreville",
+                "Country": "Gabon",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "−0.53",
+                "City": "Yaren (de facto)",
+                "Country": "Nauru",
+                "Notes": "Country does not have an official  capital; however, the government offices are in Yaren."
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "−1.28",
+                "City": "Nairobi",
+                "Country": "Kenya",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "1.28",
+                "City": "Singapore",
+                "Country": "Singapore",
+                "Notes": "Island City-state"
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "1.43",
+                "City": "Tarawa",
+                "Country": "Kiribati",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "−1.93",
+                "City": "Kigali",
+                "Country": "Rwanda",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "2.03",
+                "City": "Mogadishu",
+                "Country": "Somalia",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "3.13",
+                "City": "Kuala Lumpur (official,  legislative and royal)\nPutrajaya (administrative  and judicial)",
+                "Country": "Malaysia",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "−3.43",
+                "City": "Gitega",
+                "Country": "Burundi",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "3.75",
+                "City": "Malabo",
+                "Country": "Equatorial Guinea",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "3.87",
+                "City": "Yaoundé",
+                "Country": "Cameroon",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "4.17",
+                "City": "Malé",
+                "Country": "Maldives",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "−4.27",
+                "City": "Brazzaville",
+                "Country": "Republic of the Congo",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "−4.32",
+                "City": "Kinshasa",
+                "Country": "Democratic Republic of the Congo",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "4.37",
+                "City": "Bangui",
+                "Country": "Central African Republic",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "4.58",
+                "City": "Bogotá",
+                "Country": "Colombia",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "−4.62",
+                "City": "Victoria",
+                "Country": "Seychelles",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "4.85",
+                "City": "Juba",
+                "Country": "South Sudan",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "4.88",
+                "City": "Bandar Seri Begawan",
+                "Country": "Brunei",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "4.92",
+                "City": "Cayenne",
+                "Country": "French Guiana",
+                "Notes": "Overseas  department of France"
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "5.55",
+                "City": "Accra",
+                "Country": "Ghana",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "5.87",
+                "City": "Paramaribo",
+                "Country": "Suriname",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "6.12",
+                "City": "Lomé",
+                "Country": "Togo",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "−6.17",
+                "City": "Dodoma (official)\nDar es Salaam (former capital;  some government offices remaining)",
+                "Country": "Tanzania",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "−6.2",
+                "City": "Jakarta",
+                "Country": "Indonesia",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "6.3",
+                "City": "Monrovia",
+                "Country": "Liberia",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "6.48",
+                "City": "Porto-Novo (official)\nCotonou (de facto)",
+                "Country": "Benin",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "6.8",
+                "City": "Georgetown",
+                "Country": "Guyana",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "6.82",
+                "City": "Yamoussoukro (official)\nAbidjan (former capital;  still has many government offices)",
+                "Country": "Ivory Coast",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "6.9",
+                "City": "Sri Jayawardenepura Kotte (official)\nColombo (former capital;  has some government offices)",
+                "Country": "Sri Lanka",
+                "Notes": "Also known as \"Kotte\".  Until the 1980s, the capital was Colombo,  where many important governmental institutions still remain and which is  still designated as the commercial capital of Sri Lanka."
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "6.92",
+                "City": "Palikir",
+                "Country": "Federated States of Micronesia",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "7.07",
+                "City": "Majuro",
+                "Country": "Marshall Islands",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "7.48",
+                "City": "Ngerulmud",
+                "Country": "Palau",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "−7.92",
+                "City": "Georgetown",
+                "Country": "Ascension Island",
+                "Notes": "Part of the British Overseas Territory of Saint Helena, Ascension and Tristan da Cunha"
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "8.48",
+                "City": "Freetown",
+                "Country": "Sierra Leone",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "−8.52",
+                "City": "Funafuti",
+                "Country": "Tuvalu",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "−8.57",
+                "City": "Dili",
+                "Country": "East Timor (Timor-Leste)",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "−8.83",
+                "City": "Luanda",
+                "Country": "Angola",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "8.98",
+                "City": "Panama City",
+                "Country": "Panama",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "9.02",
+                "City": "Addis Ababa",
+                "Country": "Ethiopia",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "9.07",
+                "City": "Abuja",
+                "Country": "Nigeria",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "−9.43",
+                "City": "Honiara",
+                "Country": "Solomon Islands",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "−9.5",
+                "City": "Port Moresby",
+                "Country": "Papua New Guinea",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "9.52",
+                "City": "Conakry",
+                "Country": "Guinea",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "9.93",
+                "City": "San José",
+                "Country": "Costa Rica",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "10",
+                "City": "Hargeisa",
+                "Country": "Somaliland",
+                "Notes": "De facto independent state not  diplomatically recognized by any other state, claimed in whole by the Somali Republic."
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "−10.42",
+                "City": "Flying Fish Cove",
+                "Country": "Christmas Island",
+                "Notes": "External territory of Australia"
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "10.5",
+                "City": "Caracas",
+                "Country": "Venezuela",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "10.67",
+                "City": "Port of Spain",
+                "Country": "Trinidad and Tobago",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "11.55",
+                "City": "Phnom Penh",
+                "Country": "Cambodia",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "11.58",
+                "City": "Djibouti",
+                "Country": "Djibouti",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "−11.68",
+                "City": "Moroni",
+                "Country": "Comoros",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "11.85",
+                "City": "Bissau",
+                "Country": "Guinea-Bissau",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "−12.03",
+                "City": "Lima",
+                "Country": "Peru",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "12.05",
+                "City": "St. George's",
+                "Country": "Grenada",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "12.1",
+                "City": "N'Djamena",
+                "Country": "Chad",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "12.12",
+                "City": "Willemstad",
+                "Country": "Curaçao",
+                "Notes": "Self-governing part of the Kingdom of the Netherlands"
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "12.13",
+                "City": "Managua",
+                "Country": "Nicaragua",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "−12.18",
+                "City": "West Island",
+                "Country": "Cocos (Keeling) Islands",
+                "Notes": "External territory of Australia"
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "12.35",
+                "City": "Ouagadougou",
+                "Country": "Burkina Faso",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "12.52",
+                "City": "Oranjestad",
+                "Country": "Aruba",
+                "Notes": "Self-governing part of the Kingdom of the Netherlands"
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "12.65",
+                "City": "Bamako",
+                "Country": "Mali",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "13.1",
+                "City": "Bridgetown",
+                "Country": "Barbados",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "13.15",
+                "City": "Kingstown",
+                "Country": "Saint Vincent and the Grenadines",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "−13.28",
+                "City": "Mata-Utu",
+                "Country": "Wallis and Futuna",
+                "Notes": "Overseas collectivity of France"
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "13.45",
+                "City": "Banjul",
+                "Country": "Gambia",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "13.47",
+                "City": "Hagåtña",
+                "Country": "Guam",
+                "Notes": "Territory of  the United States"
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "13.52",
+                "City": "Niamey",
+                "Country": "Niger",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "13.68",
+                "City": "San Salvador",
+                "Country": "El Salvador",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "13.75",
+                "City": "Bangkok",
+                "Country": "Thailand",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "−13.83",
+                "City": "Apia",
+                "Country": "Samoa",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "−13.98",
+                "City": "Lilongwe",
+                "Country": "Malawi",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "14.02",
+                "City": "Castries",
+                "Country": "Saint Lucia",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "14.1",
+                "City": "Tegucigalpa",
+                "Country": "Honduras",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "−14.27",
+                "City": "Pago Pago",
+                "Country": "American Samoa",
+                "Notes": "Territory of  the United States"
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "14.58",
+                "City": "Manila",
+                "Country": "Philippines",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "14.6",
+                "City": "Guatemala City",
+                "Country": "Guatemala",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "14.68",
+                "City": "Dakar",
+                "Country": "Senegal",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "14.92",
+                "City": "Praia",
+                "Country": "Cape Verde",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "15.17",
+                "City": "Saipan",
+                "Country": "Northern Mariana Islands",
+                "Notes": "Territory of  the United States"
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "15.3",
+                "City": "Roseau",
+                "Country": "Dominica",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "15.33",
+                "City": "Asmara",
+                "Country": "Eritrea",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "15.33",
+                "City": "Sana'a",
+                "Country": "Yemen",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "−15.42",
+                "City": "Lusaka",
+                "Country": "Zambia",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "15.63",
+                "City": "Khartoum",
+                "Country": "Sudan",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "−15.78",
+                "City": "Brasília",
+                "Country": "Brazil",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "−15.92",
+                "City": "Jamestown",
+                "Country": "Saint Helena, Ascension and Tristan da Cunha",
+                "Notes": "British Overseas Territory"
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "−16.5",
+                "City": "Sucre (constitutional)\nLa Paz (administrative)",
+                "Country": "Bolivia",
+                "Notes": "La Paz is  the highest administrative capital, higher than Quito."
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "16.7",
+                "City": "Plymouth (official)\nBrades (de facto)",
+                "Country": "Montserrat",
+                "Notes": "British Overseas Territory. Plymouth was  abandoned after the eruption of the Soufriere Hills volcano in 1997.  Government offices since then have been moved to Brades Estate,  which is in the northwestern part of Montserrat."
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "17.12",
+                "City": "St. John's",
+                "Country": "Antigua and Barbuda",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "17.25",
+                "City": "Belmopan",
+                "Country": "Belize",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "17.3",
+                "City": "Basseterre",
+                "Country": "Saint Kitts and Nevis",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "−17.53",
+                "City": "Papeete",
+                "Country": "French Polynesia",
+                "Notes": "Overseas collectivity of France"
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "−17.75",
+                "City": "Port Vila",
+                "Country": "Vanuatu",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "−17.85",
+                "City": "Harare",
+                "Country": "Zimbabwe",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "17.88",
+                "City": "Gustavia",
+                "Country": "Saint Barthélemy",
+                "Notes": "Overseas collectivity of France"
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "17.97",
+                "City": "Vientiane",
+                "Country": "Laos",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "17.98",
+                "City": "Kingston",
+                "Country": "Jamaica",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "18.02",
+                "City": "Philipsburg",
+                "Country": "Sint Maarten",
+                "Notes": "Self-governing part of the Kingdom of the Netherlands"
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "18.07",
+                "City": "Marigot",
+                "Country": "Saint Martin",
+                "Notes": "Overseas collectivity of France"
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "18.1",
+                "City": "Nouakchott",
+                "Country": "Mauritania",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "−18.13",
+                "City": "Suva",
+                "Country": "Fiji",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "18.22",
+                "City": "The Valley",
+                "Country": "Anguilla",
+                "Notes": "British Overseas Territory"
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "18.35",
+                "City": "Charlotte  Amalie",
+                "Country": "United States Virgin Islands",
+                "Notes": "Territory of  the United States"
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "18.42",
+                "City": "Road Town",
+                "Country": "British Virgin Islands",
+                "Notes": "British Overseas Territory"
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "18.45",
+                "City": "San Juan",
+                "Country": "Puerto Rico",
+                "Notes": "Territory of the United States"
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "18.47",
+                "City": "Santo Domingo",
+                "Country": "Dominican Republic",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "18.53",
+                "City": "Port-au-Prince",
+                "Country": "Haiti",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "−18.93",
+                "City": "Antananarivo",
+                "Country": "Madagascar",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "−19.07",
+                "City": "Alofi",
+                "Country": "Niue",
+                "Notes": "Self-governing in free association with New Zealand"
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "19.3",
+                "City": "George Town",
+                "Country": "Cayman Islands",
+                "Notes": "British Overseas Territory"
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "19.43",
+                "City": "Mexico City",
+                "Country": "Mexico",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "19.75",
+                "City": "Naypyidaw",
+                "Country": "Myanmar",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "−20.15",
+                "City": "Port Louis",
+                "Country": "Mauritius",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "21.03",
+                "City": "Hanoi",
+                "Country": "Vietnam",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "−21.13",
+                "City": "Nukuʻalofa",
+                "Country": "Tonga",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "−21.2",
+                "City": "Avarua",
+                "Country": "Cook Islands",
+                "Notes": "Self-governing in free association with New Zealand."
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "22.18",
+                "City": "Victoria",
+                "Country": "Hong Kong",
+                "Notes": "Special Administrative Region  of China"
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "−22.27",
+                "City": "Nouméa",
+                "Country": "New Caledonia",
+                "Notes": "Sui generis collectivity of France"
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "−22.57",
+                "City": "Windhoek",
+                "Country": "Namibia",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "23.13",
+                "City": "Havana",
+                "Country": "Cuba",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "23.6",
+                "City": "Muscat",
+                "Country": "Oman",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "23.73",
+                "City": "Dhaka",
+                "Country": "Bangladesh",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "24.47",
+                "City": "Abu Dhabi",
+                "Country": "United Arab Emirates",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "24.63",
+                "City": "Riyadh",
+                "Country": "Saudi Arabia",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "−24.65",
+                "City": "Gaborone",
+                "Country": "Botswana",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "25.03",
+                "City": "Taipei",
+                "Country": "Taiwan",
+                "Notes": "Officially the Republic of China  (ROC), it has been competing for recognition with the People's Republic of China (PRC) as the sole Chinese government since  1949. Taiwan controls the island of Taiwan and its associated islands,  Quemoy, Matsu, the Pratas, and part of the Spratly Islands The  territory of Taiwan is claimed in whole by China. The  Republic of China participates in the World Health Organization and a  number of non-UN international organizations such as the World Trade Organization, International Olympic Committee and  others under a variety of pseudonyms, most commonly Chinese Taipei."
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "−25.07",
+                "City": "Adamstown",
+                "Country": "Pitcairn Islands",
+                "Notes": "British Overseas Territory"
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "25.07",
+                "City": "Nassau",
+                "Country": "Bahamas",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "−25.27",
+                "City": "Asunción",
+                "Country": "Paraguay",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "25.28",
+                "City": "Doha",
+                "Country": "Qatar",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "−25.73",
+                "City": "Pretoria (executive)",
+                "Country": "South Africa",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "−25.97",
+                "City": "Maputo",
+                "Country": "Mozambique",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "26.22",
+                "City": "Manama",
+                "Country": "Bahrain",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "−26.32",
+                "City": "Mbabane (administrative)",
+                "Country": "Eswatini",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "−26.42",
+                "City": "Lobamba (royal and  legislative)",
+                "Country": "Eswatini (Swaziland)",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "27.15",
+                "City": "El Aaiún (declared)",
+                "Country": "Sahrawi Arab Democratic Republic [c]",
+                "Notes": "The Sahrawi Republic, recognised  by 82 states, claims the mostly Moroccan controlled Western Sahara.  Moroccan controlled territory includes El Aaiún, and Morocco claims all Sahrawi controlled territory. The Sahrawi  government resides in exile in Tindouf, Algeria. See Politics of the Sahrawi Arab Democratic Republic."
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "−27.15",
+                "City": "Hanga Roa",
+                "Country": "Easter Island",
+                "Notes": "Special territory of Chile"
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "27.47",
+                "City": "Thimphu",
+                "Country": "Bhutan",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "27.7",
+                "City": "Kathmandu",
+                "Country": "Nepal",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "28.6",
+                "City": "New Delhi",
+                "Country": "India",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "−29.05",
+                "City": "Kingston",
+                "Country": "Norfolk Island",
+                "Notes": "External territory of Australia"
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "−29.12",
+                "City": "Bloemfontein (judicial)",
+                "Country": "South Africa",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "−29.3",
+                "City": "Maseru",
+                "Country": "Lesotho",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "29.37",
+                "City": "Kuwait City",
+                "Country": "Kuwait",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "30.05",
+                "City": "Cairo",
+                "Country": "Egypt",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "31.77",
+                "City": "Jerusalem",
+                "Country": "Israel",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "31.93",
+                "City": "Amman",
+                "Country": "Jordan",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "32.28",
+                "City": "Hamilton",
+                "Country": "Bermuda",
+                "Notes": "British Overseas Territory"
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "32.9",
+                "City": "Tripoli",
+                "Country": "Libya",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "33.33",
+                "City": "Baghdad",
+                "Country": "Iraq",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "−33.45",
+                "City": "Santiago (official)\nValparaíso (legislative)",
+                "Country": "Chile",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "33.5",
+                "City": "Damascus",
+                "Country": "Syria",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "33.72",
+                "City": "Islamabad",
+                "Country": "Pakistan",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "33.88",
+                "City": "Beirut",
+                "Country": "Lebanon",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "−33.92",
+                "City": "Cape Town (legislative)",
+                "Country": "South Africa",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "34.03",
+                "City": "Rabat",
+                "Country": "Morocco",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "34.53",
+                "City": "Kabul",
+                "Country": "Afghanistan",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "−34.6",
+                "City": "Buenos Aires",
+                "Country": "Argentina",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "34.67",
+                "City": "Episkopi Cantonment",
+                "Country": "Akrotiri and Dhekelia",
+                "Notes": "British Overseas Territory"
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "−34.88",
+                "City": "Montevideo",
+                "Country": "Uruguay",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "35.17",
+                "City": "Nicosia",
+                "Country": "Cyprus",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "35.17",
+                "City": "Nicosia",
+                "Country": "Northern Cyprus",
+                "Notes": "De facto independent state that is  recognised only by Turkey. Northern Cyprus is claimed in whole by the Republic of Cyprus."
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "−35.3",
+                "City": "Canberra",
+                "Country": "Australia",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "35.68",
+                "City": "Tehran",
+                "Country": "Iran",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "35.68",
+                "City": "Tokyo",
+                "Country": "Japan",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "35.88",
+                "City": "Valletta",
+                "Country": "Malta",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "36.13",
+                "City": "Gibraltar",
+                "Country": "Gibraltar",
+                "Notes": "British Overseas Territory"
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "36.77",
+                "City": "Algiers",
+                "Country": "Algeria",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "36.8",
+                "City": "Tunis",
+                "Country": "Tunisia",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "−37.07",
+                "City": "Edinburgh of the Seven Seas",
+                "Country": "Tristan da Cunha",
+                "Notes": "Part of the British Overseas Territory of Saint Helena, Ascension and Tristan da Cunha"
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "37.55",
+                "City": "Seoul",
+                "Country": "South Korea",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "37.93",
+                "City": "Ashgabat",
+                "Country": "Turkmenistan",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "37.97",
+                "City": "Athens",
+                "Country": "Greece",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "38.53",
+                "City": "Dushanbe",
+                "Country": "Tajikistan",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "38.7",
+                "City": "Lisbon",
+                "Country": "Portugal",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "38.9",
+                "City": "Washington, D.C.",
+                "Country": "United States",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "39.02",
+                "City": "Pyongyang",
+                "Country": "North Korea",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "39.87",
+                "City": "Ankara",
+                "Country": "Turkey",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "39.9",
+                "City": "Beijing",
+                "Country": "China",
+                "Notes": "See also: List of historical capitals of China"
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "40.18",
+                "City": "Yerevan",
+                "Country": "Armenia",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "40.38",
+                "City": "Baku",
+                "Country": "Azerbaijan",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "40.38",
+                "City": "Madrid",
+                "Country": "Spain",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "41.27",
+                "City": "Tashkent",
+                "Country": "Uzbekistan",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "−41.28",
+                "City": "Wellington",
+                "Country": "New Zealand",
+                "Notes": "Southernmost capital of an  independent sovereign state in the world."
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "41.32",
+                "City": "Tirana",
+                "Country": "Albania",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "41.72",
+                "City": "Tbilisi (official)",
+                "Country": "Georgia",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "41.9",
+                "City": "Rome",
+                "Country": "Italy",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "41.9",
+                "City": "Vatican City",
+                "Country": "Vatican City",
+                "Notes": "City-state"
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "42",
+                "City": "Skopje",
+                "Country": "North Macedonia",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "42.23",
+                "City": "Tskhinvali",
+                "Country": "South Ossetia",
+                "Notes": "De facto independent state  recognised by Russia, Nicaragua, Nauru, Venezuela, Abkhazia and Transnistria.  Claimed in whole by the Republic of Georgia as the Provisional Administrative Entity of South Ossetia."
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "42.25",
+                "City": "Kutaisi (legislative)",
+                "Country": "Georgia",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "42.43",
+                "City": "Podgorica (official)\nCetinje (seat of  the President)",
+                "Country": "Montenegro",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "42.5",
+                "City": "Andorra la Vella",
+                "Country": "Andorra",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "42.67",
+                "City": "Pristina",
+                "Country": "Kosovo[g]",
+                "Notes": "De facto independent state that is  recognised by 112 UN member  states and by Taiwan. Claimed in whole by the Republic of Serbia as part  of its Autonomous province of Kosovo and Metohija. Republic of Kosovo has de facto control  over most of the territory, with limited control in North Kosovo."
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "42.7",
+                "City": "Sofia",
+                "Country": "Bulgaria",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "42.87",
+                "City": "Bishkek",
+                "Country": "Kyrgyzstan",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "43",
+                "City": "Sukhumi",
+                "Country": "Abkhazia",
+                "Notes": "De facto independent state  recognised by Russia, Nauru, Nicaragua, Venezuela, South Ossetia and  Transnistria. Claimed in whole by Republic of Georgia as the Autonomous Republic of Abkhazia."
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "43.72",
+                "City": "Monaco",
+                "Country": "Monaco",
+                "Notes": "City-state"
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "43.87",
+                "City": "Sarajevo",
+                "Country": "Bosnia and Herzegovina",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "43.93",
+                "City": "San Marino",
+                "Country": "San Marino",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "44.42",
+                "City": "Bucharest",
+                "Country": "Romania",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "44.82",
+                "City": "Belgrade",
+                "Country": "Serbia",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "45.42",
+                "City": "Ottawa",
+                "Country": "Canada",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "45.82",
+                "City": "Zagreb",
+                "Country": "Croatia",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "46.05",
+                "City": "Ljubljana",
+                "Country": "Slovenia",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "46.77",
+                "City": "St. Pierre",
+                "Country": "Saint Pierre and Miquelon",
+                "Notes": "Overseas collectivity of France"
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "46.85",
+                "City": "Tiraspol",
+                "Country": "Transnistria",
+                "Notes": "De facto independent state, not  recognized by any UN-member, but by Abkhazia and South Ossetia. Claimed in  whole by the Republic of Moldova as the Territorial  Unit of Transnistria."
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "46.95",
+                "City": "Bern",
+                "Country": "Switzerland",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "47",
+                "City": "Chișinău",
+                "Country": "Moldova",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "47.13",
+                "City": "Vaduz",
+                "Country": "Liechtenstein",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "47.47",
+                "City": "Budapest",
+                "Country": "Hungary",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "47.92",
+                "City": "Ulaanbaatar",
+                "Country": "Mongolia",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "48.13",
+                "City": "Bratislava",
+                "Country": "Slovakia",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "48.2",
+                "City": "Vienna",
+                "Country": "Austria",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "48.85",
+                "City": "Paris",
+                "Country": "France",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "49.18",
+                "City": "St. Helier",
+                "Country": "Jersey",
+                "Notes": "British Crown Dependency"
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "49.45",
+                "City": "St. Peter Port",
+                "Country": "Guernsey",
+                "Notes": "British Crown Dependency"
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "49.6",
+                "City": "Luxembourg",
+                "Country": "Luxembourg",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "50.08",
+                "City": "Prague",
+                "Country": "Czech Republic",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "50.45",
+                "City": "Kyiv",
+                "Country": "Ukraine",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "50.85",
+                "City": "Brussels",
+                "Country": "Belgium",
+                "Notes": "Also the de facto capital  of the  European Union"
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "51.17",
+                "City": "Astana",
+                "Country": "Kazakhstan",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "51.48",
+                "City": "Cardiff",
+                "Country": "Wales",
+                "Notes": "Constituent country of the United Kingdom"
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "51.5",
+                "City": "London",
+                "Country": "United Kingdom",
+                "Notes": "Also the capital of the constituent country of England"
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "−51.68",
+                "City": "Stanley",
+                "Country": "Falkland Islands",
+                "Notes": "British Overseas Territory"
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "52.23",
+                "City": "Warsaw",
+                "Country": "Poland",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "52.37",
+                "City": "Amsterdam",
+                "Country": "Netherlands",
+                "Notes": "The Dutch constitution refers  to Amsterdam as  the \"capital\". The Dutch government is located in The Hague.  See Capital of the Netherlands."
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "52.52",
+                "City": "Berlin",
+                "Country": "Germany",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "53.33",
+                "City": "Dublin",
+                "Country": "Ireland",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "53.9",
+                "City": "Minsk",
+                "Country": "Belarus",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "54.13",
+                "City": "Douglas",
+                "Country": "Isle of Man",
+                "Notes": "British Crown Dependency"
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "−54.27",
+                "City": "King Edward Point",
+                "Country": "South Georgia and the South Sandwich Islands",
+                "Notes": "British Overseas Territory"
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "54.60",
+                "City": "Belfast",
+                "Country": "Northern Ireland",
+                "Notes": "Constituent country of the United Kingdom"
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "54.68",
+                "City": "Vilnius",
+                "Country": "Lithuania",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "55.67",
+                "City": "Copenhagen",
+                "Country": "Denmark",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "55.76",
+                "City": "Moscow",
+                "Country": "Russia",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "55.95",
+                "City": "Edinburgh",
+                "Country": "Scotland",
+                "Notes": "Constituent country of the United Kingdom"
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "56.95",
+                "City": "Riga",
+                "Country": "Latvia",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "59.33",
+                "City": "Stockholm",
+                "Country": "Sweden",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "59.44",
+                "City": "Tallinn",
+                "Country": "Estonia",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "59.91",
+                "City": "Oslo",
+                "Country": "Norway",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "60.1",
+                "City": "Mariehamn",
+                "Country": "Åland",
+                "Notes": "Autonomous region of Finland"
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "60.17",
+                "City": "Helsinki",
+                "Country": "Finland",
+                "Notes": ""
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "62.01",
+                "City": "Tórshavn",
+                "Country": "Faroe Islands",
+                "Notes": "Self-governing territory of  the Danish Realm"
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "64.15",
+                "City": "Reykjavík",
+                "Country": "Iceland",
+                "Notes": "Northernmost capital of an  independent sovereign state in the world."
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "64.18",
+                "City": "Nuuk",
+                "Country": "Greenland",
+                "Notes": "Self-governing territory of  the Danish Realm. Northernmost capital of a constituent state in the world."
+            },
+            {
+                "Latitude(\"−\"indicatessouthernhemi-sphere)": "78.22",
+                "City": "Longyearbyen",
+                "Country": "Svalbard",
+                "Notes": "Longyearbyen is the administrative  center of Svalbard, a Norwegian Arctic unincorporated area."
+            }
+        ]
+    }
+]

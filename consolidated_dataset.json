@@ -1,0 +1,3804 @@
+[
+    {
+        "Country": "China",
+        "Capital": "Beijing",
+        "Population": "21,542,000",
+        "Area": null,
+        "Latitude": "39.9",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Japan",
+        "Capital": "Tokyo",
+        "Population": "14,094,034",
+        "Area": "2,194.07[4]",
+        "Latitude": "35.68",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Russia",
+        "Capital": "Moscow",
+        "Population": "13,104,177",
+        "Area": "2,511",
+        "Latitude": "55.76",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "DR Congo",
+        "Capital": "Kinshasa",
+        "Population": "12,691,000",
+        "Area": null,
+        "Latitude": null,
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Indonesia",
+        "Capital": "Jakarta",
+        "Population": "10,562,088",
+        "Area": "662.3",
+        "Latitude": "−6.2",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Peru",
+        "Capital": "Lima",
+        "Population": "10,151,000",
+        "Area": "2,672.3",
+        "Latitude": "−12.03",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Egypt",
+        "Capital": "Cairo",
+        "Population": "10,107,125",
+        "Area": "3,085.12",
+        "Latitude": "30.05",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "South Korea",
+        "Capital": "Seoul",
+        "Population": "9,508,451",
+        "Area": "605.21",
+        "Latitude": "37.55",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Mexico",
+        "Capital": "Mexico City",
+        "Population": "9,209,944",
+        "Area": "1,485",
+        "Latitude": "19.43",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "United Kingdom",
+        "Capital": "London",
+        "Population": "9,002,488",
+        "Area": "1,572",
+        "Latitude": "51.5",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Bangladesh",
+        "Capital": "Dhaka",
+        "Population": "8,906,039",
+        "Area": "305.47",
+        "Latitude": "23.73",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Iran",
+        "Capital": "Tehran",
+        "Population": "8,693,706",
+        "Area": "615",
+        "Latitude": "35.68",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Thailand",
+        "Capital": "Bangkok",
+        "Population": "8,305,218",
+        "Area": "1,568.737",
+        "Latitude": "13.75",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Vietnam",
+        "Capital": "Hanoi",
+        "Population": "8,053,663",
+        "Area": "3,358.6",
+        "Latitude": "21.03",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Iraq",
+        "Capital": "Baghdad",
+        "Population": "7,682,136",
+        "Area": "673",
+        "Latitude": "33.33",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Saudi Arabia",
+        "Capital": "Riyadh",
+        "Population": "7,676,654",
+        "Area": "1,973",
+        "Latitude": "24.63",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Hong Kong (China)",
+        "Capital": "Hong Kong",
+        "Population": "7,291,600",
+        "Area": "2,754.97",
+        "Latitude": null,
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Colombia",
+        "Capital": "Bogotá",
+        "Population": "7,181,469",
+        "Area": "307.36",
+        "Latitude": "4.58",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Chile",
+        "Capital": "Santiago",
+        "Population": "6,310,000",
+        "Area": "47.33",
+        "Latitude": "−33.45",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Turkey",
+        "Capital": "Ankara",
+        "Population": "5,747,325",
+        "Area": "24,521",
+        "Latitude": "39.87",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Singapore",
+        "Capital": "Singapore",
+        "Population": "5,917,600",
+        "Area": "17.84",
+        "Latitude": "1.28",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Afghanistan",
+        "Capital": "Kabul",
+        "Population": "4,601,789",
+        "Area": "1,028.24",
+        "Latitude": "34.53",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Kenya",
+        "Capital": "Nairobi",
+        "Population": "4,397,073",
+        "Area": "696",
+        "Latitude": "−1.28",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Jordan",
+        "Capital": "Amman",
+        "Population": "4,061,150",
+        "Area": "1,680",
+        "Latitude": "31.93",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Algeria",
+        "Capital": "Algiers",
+        "Population": "3,915,811",
+        "Area": "363",
+        "Latitude": "36.77",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Germany",
+        "Capital": "Berlin",
+        "Population": "3,677,472",
+        "Area": "891.7",
+        "Latitude": "52.52",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Spain",
+        "Capital": "Madrid",
+        "Population": "3,305,408",
+        "Area": "604.31",
+        "Latitude": "40.38",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Argentina",
+        "Capital": "Buenos Aires",
+        "Population": "3,120,612",
+        "Area": "203",
+        "Latitude": "−34.6",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Ethiopia",
+        "Capital": "Addis Ababa",
+        "Population": "3,040,740",
+        "Area": "527",
+        "Latitude": "9.02",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Kuwait",
+        "Capital": "Kuwait City",
+        "Population": "2,989,000",
+        "Area": "130",
+        "Latitude": "29.37",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Guatemala",
+        "Capital": "Guatemala City",
+        "Population": "2,934,841",
+        "Area": "219.9",
+        "Latitude": "14.6",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "South Africa",
+        "Capital": "Pretoria",
+        "Population": "2,921,488",
+        "Area": "236.17",
+        "Latitude": "−33.92",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Ukraine",
+        "Capital": "Kyiv",
+        "Population": "2,920,873",
+        "Area": "780",
+        "Latitude": "50.45",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "North Korea",
+        "Capital": "Pyongyang",
+        "Population": "2,870,000",
+        "Area": "3,194",
+        "Latitude": "39.02",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Uzbekistan",
+        "Capital": "Tashkent",
+        "Population": "2,860,600",
+        "Area": "334.8",
+        "Latitude": "41.27",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Italy",
+        "Capital": "Rome",
+        "Population": "2,761,632",
+        "Area": "1,285",
+        "Latitude": "41.9",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Ecuador",
+        "Capital": "Quito",
+        "Population": "2,800,388",
+        "Area": "372.39",
+        "Latitude": "−0.25",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Cameroon",
+        "Capital": "Yaoundé",
+        "Population": "2,765,568",
+        "Area": "180[citation needed]",
+        "Latitude": "3.87",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Zambia",
+        "Capital": "Lusaka",
+        "Population": "2,731,696",
+        "Area": "360",
+        "Latitude": "−15.42",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Sudan",
+        "Capital": "Khartoum",
+        "Population": "2,682,431",
+        "Area": "1,010",
+        "Latitude": "15.63",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Brazil",
+        "Capital": "Brasília",
+        "Population": "2,648,532",
+        "Area": "5,802",
+        "Latitude": "−15.78",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Taiwan",
+        "Capital": "Taipei (de facto)",
+        "Population": "2,608,332",
+        "Area": null,
+        "Latitude": "25.03",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Yemen",
+        "Capital": "Sanaa",
+        "Population": "2,575,347",
+        "Area": null,
+        "Latitude": "15.33",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Angola",
+        "Capital": "Luanda",
+        "Population": "2,571,861",
+        "Area": "116",
+        "Latitude": "−8.83",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Burkina Faso",
+        "Capital": "Ouagadougou",
+        "Population": "2,453,496",
+        "Area": null,
+        "Latitude": "12.35",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Ghana",
+        "Capital": "Accra",
+        "Population": "2,388,000",
+        "Area": "173[citation needed]",
+        "Latitude": "5.55",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Somalia",
+        "Capital": "Mogadishu",
+        "Population": "2,388,000",
+        "Area": "204[citation needed]",
+        "Latitude": "2.03",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Azerbaijan",
+        "Capital": "Baku",
+        "Population": "2,303,100",
+        "Area": "2,140",
+        "Latitude": "40.38",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Cambodia",
+        "Capital": "Phnom Penh",
+        "Population": "2,281,951",
+        "Area": "679",
+        "Latitude": "11.55",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Venezuela",
+        "Capital": "Caracas",
+        "Population": "2,245,744",
+        "Area": "433",
+        "Latitude": "10.5",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "France",
+        "Capital": "Paris",
+        "Population": "2,139,907",
+        "Area": "105.4",
+        "Latitude": "48.85",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Cuba",
+        "Capital": "Havana",
+        "Population": "2,132,183",
+        "Area": "728.26",
+        "Latitude": "23.13",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Zimbabwe",
+        "Capital": "Harare",
+        "Population": "2,123,132",
+        "Area": "960.6",
+        "Latitude": "−17.85",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Syria",
+        "Capital": "Damascus",
+        "Population": "2,079,000",
+        "Area": "105",
+        "Latitude": "33.5",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Belarus",
+        "Capital": "Minsk",
+        "Population": "1,996,553",
+        "Area": "409.5",
+        "Latitude": "53.9",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Austria",
+        "Capital": "Vienna",
+        "Population": "1,962,779",
+        "Area": "414.78",
+        "Latitude": "48.2",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Poland",
+        "Capital": "Warsaw",
+        "Population": "1,863,056",
+        "Area": "517.24",
+        "Latitude": "52.23",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Philippines",
+        "Capital": "Manila",
+        "Population": "1,846,513",
+        "Area": "42.88",
+        "Latitude": "14.58",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Mali",
+        "Capital": "Bamako",
+        "Population": "1,809,106",
+        "Area": "245.0",
+        "Latitude": "12.65",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Malaysia",
+        "Capital": "Kuala Lumpur",
+        "Population": "1,782,500",
+        "Area": null,
+        "Latitude": "3.13",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Romania",
+        "Capital": "Bucharest",
+        "Population": "1,716,983",
+        "Area": "238",
+        "Latitude": "44.42",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Hungary",
+        "Capital": "Budapest",
+        "Population": "1,706,851",
+        "Area": "525.2",
+        "Latitude": "47.47",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Congo",
+        "Capital": "Brazzaville",
+        "Population": "1,696,392",
+        "Area": null,
+        "Latitude": null,
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Serbia",
+        "Capital": "Belgrade",
+        "Population": "1,688,667",
+        "Area": "359.9",
+        "Latitude": "44.82",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Uganda",
+        "Capital": "Kampala",
+        "Population": "1,680,600",
+        "Area": "189[citation needed]",
+        "Latitude": "0.3",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Guinea",
+        "Capital": "Conakry",
+        "Population": "1,660,973",
+        "Area": "190",
+        "Latitude": "9.52",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Mongolia",
+        "Capital": "Ulaanbaatar",
+        "Population": "1,466,125",
+        "Area": "4,704.4",
+        "Latitude": "47.92",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Honduras",
+        "Capital": "Tegucigalpa",
+        "Population": "1,444,085",
+        "Area": null,
+        "Latitude": "14.1",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Senegal",
+        "Capital": "Dakar",
+        "Population": "1,438,725",
+        "Area": "83",
+        "Latitude": "14.68",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Czech Republic",
+        "Capital": "Prague",
+        "Population": "1,357,326",
+        "Area": "496",
+        "Latitude": "50.08",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Niger",
+        "Capital": "Niamey",
+        "Population": "1,334,984",
+        "Area": "239.30",
+        "Latitude": "13.52",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Uruguay",
+        "Capital": "Montevideo",
+        "Population": "1,319,108",
+        "Area": "201",
+        "Latitude": "−34.88",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Bulgaria",
+        "Capital": "Sofia",
+        "Population": "1,307,439",
+        "Area": "492",
+        "Latitude": "42.7",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Oman",
+        "Capital": "Muscat",
+        "Population": "1,294,101",
+        "Area": "273.9",
+        "Latitude": "23.6",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Madagascar",
+        "Capital": "Antananarivo",
+        "Population": "1,275,207",
+        "Area": "88[citation needed]",
+        "Latitude": "−18.93",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Kazakhstan",
+        "Capital": "Astana",
+        "Population": "1,239,900",
+        "Area": "722",
+        "Latitude": "51.17",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Nigeria",
+        "Capital": "Abuja",
+        "Population": "1,235,880",
+        "Area": "713",
+        "Latitude": "9.07",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Georgia",
+        "Capital": "Tbilisi",
+        "Population": "1,201,769",
+        "Area": "504.2",
+        "Latitude": "42.25",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Mauritania",
+        "Capital": "Nouakchott",
+        "Population": "1,195,600",
+        "Area": "401",
+        "Latitude": "18.1",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Qatar",
+        "Capital": "Doha",
+        "Population": "1,186,023",
+        "Area": "132",
+        "Latitude": "25.28",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Libya",
+        "Capital": "Tripoli",
+        "Population": "1,170,000",
+        "Area": "1,507",
+        "Latitude": "32.9",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Myanmar",
+        "Capital": "Naypyidaw",
+        "Population": "1,160,242",
+        "Area": null,
+        "Latitude": "19.75",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Rwanda",
+        "Capital": "Kigali",
+        "Population": "1,132,686",
+        "Area": "730",
+        "Latitude": "−1.93",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Mozambique",
+        "Capital": "Maputo",
+        "Population": "1,124,988",
+        "Area": "347.69",
+        "Latitude": "−25.97",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Dominican Republic",
+        "Capital": "Santo Domingo",
+        "Population": "1,111,838",
+        "Area": "104.44",
+        "Latitude": "18.47",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Armenia",
+        "Capital": "Yerevan",
+        "Population": "1,096,100",
+        "Area": "223",
+        "Latitude": "40.18",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Kyrgyzstan",
+        "Capital": "Bishkek",
+        "Population": "1,074,075",
+        "Area": "169.9",
+        "Latitude": "42.87",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Sierra Leone",
+        "Capital": "Freetown",
+        "Population": "1,055,964",
+        "Area": "81.48",
+        "Latitude": "8.48",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Nicaragua",
+        "Capital": "Managua",
+        "Population": "1,055,247",
+        "Area": "267.17",
+        "Latitude": "12.13",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Canada",
+        "Capital": "Ottawa",
+        "Population": "1,017,449",
+        "Area": "2,970.30",
+        "Latitude": "45.42",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Pakistan",
+        "Capital": "Islamabad",
+        "Population": "1,014,825",
+        "Area": "220.15",
+        "Latitude": "33.72",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Liberia",
+        "Capital": "Monrovia",
+        "Population": "1,010,970",
+        "Area": "20",
+        "Latitude": "6.3",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "United Arab Emirates",
+        "Capital": "Abu Dhabi",
+        "Population": "1,010,092",
+        "Area": "972",
+        "Latitude": "24.47",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Malawi",
+        "Capital": "Lilongwe",
+        "Population": "989,318",
+        "Area": "727.79",
+        "Latitude": "−13.98",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Haiti",
+        "Capital": "Port-au-Prince",
+        "Population": "987,310",
+        "Area": "36.04",
+        "Latitude": "18.53",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Sweden",
+        "Capital": "Stockholm",
+        "Population": "978,770",
+        "Area": "188",
+        "Latitude": "59.33",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Eritrea",
+        "Capital": "Asmara",
+        "Population": "963,000",
+        "Area": "45[citation needed]",
+        "Latitude": "15.33",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Israel",
+        "Capital": "Jerusalem[a]",
+        "Population": "936,425",
+        "Area": "125.126",
+        "Latitude": "31.77",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Laos",
+        "Capital": "Vientiane",
+        "Population": "927,724",
+        "Area": null,
+        "Latitude": "17.97",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Chad",
+        "Capital": "N'Djamena",
+        "Population": "916,000",
+        "Area": "104[citation needed]",
+        "Latitude": "12.1",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Netherlands",
+        "Capital": "Amsterdam",
+        "Population": "905,234",
+        "Area": "219.32",
+        "Latitude": "52.37",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Central African Republic",
+        "Capital": "Bangui",
+        "Population": "889,231",
+        "Area": "67",
+        "Latitude": "4.37",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Panama",
+        "Capital": "Panama City",
+        "Population": "880,691",
+        "Area": "275",
+        "Latitude": "8.98",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Tajikistan",
+        "Capital": "Dushanbe",
+        "Population": "863,400",
+        "Area": "124.6",
+        "Latitude": "38.53",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Nepal",
+        "Capital": "Kathmandu",
+        "Population": "845,767",
+        "Area": "49.45",
+        "Latitude": "27.7",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Togo",
+        "Capital": "Lomé",
+        "Population": "837,437",
+        "Area": "99.14[citation needed]",
+        "Latitude": "6.12",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Turkmenistan",
+        "Capital": "Ashgabat",
+        "Population": "791,000",
+        "Area": "834",
+        "Latitude": "37.93",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Moldova",
+        "Capital": "Chişinău",
+        "Population": "779,300",
+        "Area": "123",
+        "Latitude": "47",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Croatia",
+        "Capital": "Zagreb",
+        "Population": "769,944",
+        "Area": "641",
+        "Latitude": "45.82",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Gabon",
+        "Capital": "Libreville",
+        "Population": "703,904",
+        "Area": "65.42[citation needed]",
+        "Latitude": "0.38",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Norway",
+        "Capital": "Oslo",
+        "Population": "697,010",
+        "Area": "480.75",
+        "Latitude": "59.91",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Macau (China)",
+        "Capital": "Macau",
+        "Population": "671,900",
+        "Area": "118",
+        "Latitude": null,
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "United States",
+        "Capital": "Washington, D.C.",
+        "Population": "670,050",
+        "Area": "177.0",
+        "Latitude": "38.9",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Jamaica",
+        "Capital": "Kingston",
+        "Population": "662,491",
+        "Area": "22.7",
+        "Latitude": "17.98",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Finland",
+        "Capital": "Helsinki",
+        "Population": "658,864",
+        "Area": "715.48",
+        "Latitude": "60.17",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Tunisia",
+        "Capital": "Tunis",
+        "Population": "638,845",
+        "Area": "212.63",
+        "Latitude": "36.8",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Denmark",
+        "Capital": "Copenhagen",
+        "Population": "638,117",
+        "Area": "179.8",
+        "Latitude": "55.67",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Greece",
+        "Capital": "Athens",
+        "Population": "637,798",
+        "Area": "38.964",
+        "Latitude": "37.97",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Latvia",
+        "Capital": "Riga",
+        "Population": "605,802",
+        "Area": "304[6]",
+        "Latitude": "56.95",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Djibouti",
+        "Capital": "Djibouti City",
+        "Population": "604,013",
+        "Area": "26[citation needed]",
+        "Latitude": "11.58",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Ireland",
+        "Capital": "Dublin",
+        "Population": "588,233",
+        "Area": "117.8",
+        "Latitude": "53.33",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Morocco",
+        "Capital": "Rabat",
+        "Population": "577,827",
+        "Area": "117[citation needed]",
+        "Latitude": "34.03",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Lithuania",
+        "Capital": "Vilnius",
+        "Population": "576,195",
+        "Area": "401",
+        "Latitude": "54.68",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "El Salvador",
+        "Capital": "San Salvador",
+        "Population": "570,459",
+        "Area": "72.25[citation needed]",
+        "Latitude": "13.68",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Albania",
+        "Capital": "Tirana",
+        "Population": "557,422",
+        "Area": "41.8",
+        "Latitude": "41.32",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "North Macedonia",
+        "Capital": "Skopje",
+        "Population": "544,086",
+        "Area": "337.80",
+        "Latitude": "42",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "South Sudan",
+        "Capital": "Juba",
+        "Population": "525,953",
+        "Area": "52[citation needed]",
+        "Latitude": "4.85",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Paraguay",
+        "Capital": "Asunción",
+        "Population": "521,559",
+        "Area": "117",
+        "Latitude": "−25.27",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Portugal",
+        "Capital": "Lisbon",
+        "Population": "509,614",
+        "Area": "100.05",
+        "Latitude": "38.7",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Guinea-Bissau",
+        "Capital": "Bissau",
+        "Population": "492,004",
+        "Area": "77.5",
+        "Latitude": "11.85",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Slovakia",
+        "Capital": "Bratislava",
+        "Population": "440,948",
+        "Area": "367.584",
+        "Latitude": "48.13",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Estonia",
+        "Capital": "Tallinn",
+        "Population": "438,341",
+        "Area": "159.2",
+        "Latitude": "59.44",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Australia",
+        "Capital": "Canberra",
+        "Population": "431,380",
+        "Area": "814.2",
+        "Latitude": "−35.3",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Namibia",
+        "Capital": "Windhoek",
+        "Population": "431,000",
+        "Area": "5,133",
+        "Latitude": "−22.57",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Tanzania",
+        "Capital": "Dodoma",
+        "Population": "410,956",
+        "Area": null,
+        "Latitude": "−6.17",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Papua New Guinea",
+        "Capital": "Port Moresby",
+        "Population": "364,145",
+        "Area": "240",
+        "Latitude": "−9.5",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Ivory Coast",
+        "Capital": "Yamoussoukro",
+        "Population": "361,893",
+        "Area": null,
+        "Latitude": "6.82",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Lebanon",
+        "Capital": "Beirut",
+        "Population": "361,366",
+        "Area": "19.8",
+        "Latitude": "33.88",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Bolivia",
+        "Capital": "Sucre",
+        "Population": "360,544",
+        "Area": null,
+        "Latitude": "−16.5",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Puerto Rico (US)",
+        "Capital": "San Juan",
+        "Population": "342,259",
+        "Area": null,
+        "Latitude": null,
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Costa Rica",
+        "Capital": "San José",
+        "Population": "342,188",
+        "Area": "44.62",
+        "Latitude": "9.93",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Lesotho",
+        "Capital": "Maseru",
+        "Population": "330,760",
+        "Area": "138",
+        "Latitude": "−29.3",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Cyprus",
+        "Capital": "Nicosia",
+        "Population": "326,739",
+        "Area": "51.06",
+        "Latitude": "35.17",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Equatorial Guinea",
+        "Capital": "Malabo",
+        "Population": "297,000",
+        "Area": "21[citation needed]",
+        "Latitude": "3.75",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Slovenia",
+        "Capital": "Ljubljana",
+        "Population": "285,604",
+        "Area": "163.8",
+        "Latitude": "46.05",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "East Timor",
+        "Capital": "Dili",
+        "Population": "277,279",
+        "Area": "48.27[citation needed]",
+        "Latitude": null,
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Bosnia and Herzegovina",
+        "Capital": "Sarajevo",
+        "Population": "275,524",
+        "Area": "141.5",
+        "Latitude": "43.87",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Bahamas",
+        "Capital": "Nassau",
+        "Population": "274,400",
+        "Area": "207",
+        "Latitude": "25.07",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Botswana",
+        "Capital": "Gaborone",
+        "Population": "273,602",
+        "Area": "169",
+        "Latitude": "−24.65",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Benin",
+        "Capital": "Porto-Novo",
+        "Population": "264,320",
+        "Area": "79[citation needed]",
+        "Latitude": "6.48",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "India",
+        "Capital": "New Delhi",
+        "Population": "249,998",
+        "Area": "42.7",
+        "Latitude": "28.6",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Suriname",
+        "Capital": "Paramaribo",
+        "Population": "240,924",
+        "Area": "182",
+        "Latitude": "5.87",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Sahrawi Arab Democratic Republic",
+        "Capital": "Laayoune (claimed)Tifariti (de facto)",
+        "Population": "217,7323,000",
+        "Area": null,
+        "Latitude": null,
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "New Zealand",
+        "Capital": "Wellington",
+        "Population": "217,000",
+        "Area": "289.91",
+        "Latitude": "−41.28",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Maldives",
+        "Capital": "Malé",
+        "Population": "211,908",
+        "Area": "1.95",
+        "Latitude": "4.17",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Bahrain",
+        "Capital": "Manama",
+        "Population": "200,000",
+        "Area": "30[citation needed]",
+        "Latitude": "26.22",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Kosovo",
+        "Capital": "Pristina",
+        "Population": "198,897",
+        "Area": "523.13",
+        "Latitude": null,
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Montenegro",
+        "Capital": "Podgorica",
+        "Population": "190,488",
+        "Area": "910",
+        "Latitude": "42.43",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Belgium",
+        "Capital": "Brussels",
+        "Population": "187,686",
+        "Area": "32.61",
+        "Latitude": "50.85",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Cape Verde",
+        "Capital": "Praia",
+        "Population": "159,050",
+        "Area": null,
+        "Latitude": "14.92",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Mauritius",
+        "Capital": "Port Louis",
+        "Population": "147,066",
+        "Area": "46.7",
+        "Latitude": "−20.15",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Curaçao (Netherlands)",
+        "Capital": "Willemstad",
+        "Population": "136,660",
+        "Area": null,
+        "Latitude": null,
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Burundi",
+        "Capital": "Gitega",
+        "Population": "135,467",
+        "Area": "22[citation needed]",
+        "Latitude": "−3.43",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Switzerland",
+        "Capital": "Bern (de facto)",
+        "Population": "134,591",
+        "Area": null,
+        "Latitude": "46.95",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Transnistria",
+        "Capital": "Tiraspol",
+        "Population": "133,807",
+        "Area": "55.56[citation needed]",
+        "Latitude": "46.85",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Iceland",
+        "Capital": "Reykjavík",
+        "Population": "133,262",
+        "Area": "273",
+        "Latitude": "64.15",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Luxembourg",
+        "Capital": "Luxembourg City",
+        "Population": "134,697",
+        "Area": "51.46",
+        "Latitude": "49.6",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Guyana",
+        "Capital": "Georgetown",
+        "Population": "118,363",
+        "Area": "70[citation needed]",
+        "Latitude": "6.8",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Bhutan",
+        "Capital": "Thimphu",
+        "Population": "114,551",
+        "Area": "26.1[citation needed]",
+        "Latitude": "27.47",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Comoros",
+        "Capital": "Moroni",
+        "Population": "111,326",
+        "Area": "30[citation needed]",
+        "Latitude": "−11.68",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Barbados",
+        "Capital": "Bridgetown",
+        "Population": "110,000",
+        "Area": "40[citation needed]",
+        "Latitude": "13.1",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Sri Lanka",
+        "Capital": "Sri Jayawardenepura Kotte",
+        "Population": "107,925",
+        "Area": null,
+        "Latitude": "6.9",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Brunei",
+        "Capital": "Bandar Seri Begawan",
+        "Population": "100,700",
+        "Area": "100.36",
+        "Latitude": "4.88",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Eswatini",
+        "Capital": "Mbabane",
+        "Population": "94,874",
+        "Area": null,
+        "Latitude": "−26.32",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "New Caledonia (France)",
+        "Capital": "Nouméa",
+        "Population": "94,285",
+        "Area": "45.7[citation needed]",
+        "Latitude": null,
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Fiji",
+        "Capital": "Suva",
+        "Population": "93,970",
+        "Area": "26.24",
+        "Latitude": "−18.13",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Solomon Islands",
+        "Capital": "Honiara",
+        "Population": "92,344",
+        "Area": "22",
+        "Latitude": "−9.43",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Gambia",
+        "Capital": "Banjul",
+        "Population": "73,000",
+        "Area": null,
+        "Latitude": "13.45",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "São Tomé and Príncipe",
+        "Capital": "São Tomé",
+        "Population": "71,868",
+        "Area": "17[citation needed]",
+        "Latitude": "0.33",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Kiribati",
+        "Capital": "Tarawa",
+        "Population": "70,480",
+        "Area": "15.76",
+        "Latitude": "1.43",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Vanuatu",
+        "Capital": "Port Vila",
+        "Population": "51,437",
+        "Area": "23.6[citation needed]",
+        "Latitude": "−17.75",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Northern Mariana Islands (USA)",
+        "Capital": "Saipan",
+        "Population": "47,565",
+        "Area": null,
+        "Latitude": null,
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Samoa",
+        "Capital": "Apia",
+        "Population": "41,611",
+        "Area": "60",
+        "Latitude": "−13.83",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Palestine",
+        "Capital": "Ramallah (de facto)",
+        "Population": "38,998",
+        "Area": "16.3",
+        "Latitude": null,
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Monaco",
+        "Capital": "Monaco",
+        "Population": "38,350",
+        "Area": "2.1",
+        "Latitude": "43.72",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Jersey (UK)",
+        "Capital": "Saint Helier",
+        "Population": "37,540",
+        "Area": null,
+        "Latitude": null,
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Trinidad and Tobago",
+        "Capital": "Port of Spain",
+        "Population": "37,074",
+        "Area": "12",
+        "Latitude": "10.67",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Cayman Islands (UK)",
+        "Capital": "George Town",
+        "Population": "34,399",
+        "Area": null,
+        "Latitude": null,
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Gibraltar (UK)",
+        "Capital": "Gibraltar",
+        "Population": "34,003",
+        "Area": null,
+        "Latitude": null,
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Grenada",
+        "Capital": "St. George's",
+        "Population": "33,734",
+        "Area": "1.8",
+        "Latitude": "12.05",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Aruba (Netherlands)",
+        "Capital": "Oranjestad",
+        "Population": "28,294",
+        "Area": "30",
+        "Latitude": null,
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Isle of Man (UK)",
+        "Capital": "Douglas",
+        "Population": "27,938",
+        "Area": null,
+        "Latitude": null,
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Marshall Islands",
+        "Capital": "Majuro",
+        "Population": "27,797",
+        "Area": "9.7",
+        "Latitude": "7.07",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Tonga",
+        "Capital": "Nukuʻalofa",
+        "Population": "27,600",
+        "Area": "17.6",
+        "Latitude": "−21.13",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Seychelles",
+        "Capital": "Victoria",
+        "Population": "26,450",
+        "Area": "20.1[citation needed]",
+        "Latitude": "−4.62",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "French Polynesia (France)",
+        "Capital": "Papeete",
+        "Population": "26,926",
+        "Area": "17.4",
+        "Latitude": null,
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Andorra",
+        "Capital": "Andorra la Vella",
+        "Population": "22,873",
+        "Area": "12",
+        "Latitude": "42.5",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Faroe Islands (Denmark)",
+        "Capital": "Tórshavn",
+        "Population": "22,738",
+        "Area": "172.9",
+        "Latitude": null,
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Antigua and Barbuda",
+        "Capital": "St. John's",
+        "Population": "22,219",
+        "Area": "10",
+        "Latitude": "17.12",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Belize",
+        "Capital": "Belmopan",
+        "Population": "20,621",
+        "Area": "32.78",
+        "Latitude": "17.25",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Saint Lucia",
+        "Capital": "Castries",
+        "Population": "20,000",
+        "Area": "79[citation needed]",
+        "Latitude": "14.02",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Guernsey (UK)",
+        "Capital": "Saint Peter Port",
+        "Population": "18,958",
+        "Area": null,
+        "Latitude": null,
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Greenland (Denmark)",
+        "Capital": "Nuuk",
+        "Population": "18,800",
+        "Area": "690",
+        "Latitude": null,
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Dominica",
+        "Capital": "Roseau",
+        "Population": "14,725",
+        "Area": "12",
+        "Latitude": "15.3",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "U.S. Virgin Islands (US)",
+        "Capital": "Charlotte Amalie",
+        "Population": "14,477",
+        "Area": null,
+        "Latitude": null,
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Saint Kitts and Nevis",
+        "Capital": "Basseterre",
+        "Population": "14,000",
+        "Area": "6.1",
+        "Latitude": "17.3",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Saint Vincent and the Grenadines",
+        "Capital": "Kingstown",
+        "Population": "12,909",
+        "Area": "2.5",
+        "Latitude": "13.15",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "British Virgin Islands (UK)",
+        "Capital": "Road Town",
+        "Population": "12,603",
+        "Area": null,
+        "Latitude": null,
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Åland (Finland)",
+        "Capital": "Mariehamn",
+        "Population": "11,736",
+        "Area": "20.75[citation needed]",
+        "Latitude": null,
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Micronesia",
+        "Capital": "Palikir",
+        "Population": "6,647",
+        "Area": null,
+        "Latitude": null,
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Tuvalu",
+        "Capital": "Funafuti",
+        "Population": "6,320",
+        "Area": "2.4",
+        "Latitude": "−8.52",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Malta",
+        "Capital": "Valletta",
+        "Population": "5,827",
+        "Area": "0.61",
+        "Latitude": "35.88",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Liechtenstein",
+        "Capital": "Vaduz",
+        "Population": "5,774",
+        "Area": "17.3",
+        "Latitude": "47.13",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Saint Pierre and Miquelon (France)",
+        "Capital": "Saint-Pierre",
+        "Population": "5,394",
+        "Area": "25[citation needed]",
+        "Latitude": null,
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Cook Islands",
+        "Capital": "Avarua",
+        "Population": "4,906",
+        "Area": null,
+        "Latitude": "−21.2",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "San Marino",
+        "Capital": "City of San Marino",
+        "Population": "4,061",
+        "Area": "7.09",
+        "Latitude": "43.93",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Turks and Caicos Islands (UK)",
+        "Capital": "Cockburn Town",
+        "Population": "3,720",
+        "Area": null,
+        "Latitude": null,
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "American Samoa (USA)",
+        "Capital": "Pago Pago",
+        "Population": "3,656",
+        "Area": null,
+        "Latitude": null,
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Saint Martin (France)",
+        "Capital": "Marigot",
+        "Population": "3,229",
+        "Area": null,
+        "Latitude": null,
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Saint Barthélemy (France)",
+        "Capital": "Gustavia",
+        "Population": "2,615",
+        "Area": "3.4",
+        "Latitude": null,
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Falkland Islands (UK)",
+        "Capital": "Stanley",
+        "Population": "2,460",
+        "Area": null,
+        "Latitude": null,
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Svalbard (Norway)",
+        "Capital": "Longyearbyen",
+        "Population": "2,417",
+        "Area": null,
+        "Latitude": null,
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Sint Maarten (Netherlands)",
+        "Capital": "Philipsburg",
+        "Population": "1,894",
+        "Area": "2.65",
+        "Latitude": null,
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Christmas Island (Australia)",
+        "Capital": "Flying Fish Cove",
+        "Population": "1,599",
+        "Area": "17",
+        "Latitude": null,
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Anguilla (UK)",
+        "Capital": "The Valley",
+        "Population": "1,067",
+        "Area": null,
+        "Latitude": null,
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Guam (US)",
+        "Capital": "Hagåtña",
+        "Population": "1,051",
+        "Area": null,
+        "Latitude": null,
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Wallis and Futuna (France)",
+        "Capital": "Mata Utu",
+        "Population": "1,029",
+        "Area": "2.5",
+        "Latitude": null,
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Bermuda (UK)",
+        "Capital": "Hamilton",
+        "Population": "854",
+        "Area": null,
+        "Latitude": null,
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Nauru",
+        "Capital": "Yaren (de facto)",
+        "Population": "747",
+        "Area": "1.5",
+        "Latitude": "−0.53",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Saint Helena (UK)",
+        "Capital": "Jamestown",
+        "Population": "629",
+        "Area": null,
+        "Latitude": null,
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Niue",
+        "Capital": "Alofi",
+        "Population": "597",
+        "Area": null,
+        "Latitude": "−19.07",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Tokelau (NZ)",
+        "Capital": "Atafu",
+        "Population": "541",
+        "Area": null,
+        "Latitude": null,
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Vatican City",
+        "Capital": "Vatican City",
+        "Population": "764",
+        "Area": "0.44",
+        "Latitude": "41.9",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Montserrat (UK)",
+        "Capital": "Brades (de facto)Plymouth (de jure)",
+        "Population": "4490",
+        "Area": null,
+        "Latitude": null,
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Norfolk Island (Australia)",
+        "Capital": "Kingston",
+        "Population": "341",
+        "Area": "2.3",
+        "Latitude": null,
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Cocos (Keeling) Islands (Australia)",
+        "Capital": "West Island",
+        "Population": "134",
+        "Area": "6.23",
+        "Latitude": null,
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Pitcairn Islands (UK)",
+        "Capital": "Adamstown",
+        "Population": "40",
+        "Area": null,
+        "Latitude": null,
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "South Georgia and the South Sandwich Islands (UK)",
+        "Capital": "King Edward Point",
+        "Population": "22",
+        "Area": null,
+        "Latitude": null,
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "Palau",
+        "Capital": "Ngerulmud",
+        "Population": "0",
+        "Area": "0.5",
+        "Latitude": "7.48",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_population"
+        ]
+    },
+    {
+        "Country": "People's Republic of China",
+        "Capital": "Beijing[1]",
+        "Population": null,
+        "Area": "16,410.5",
+        "Latitude": null,
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area"
+        ]
+    },
+    {
+        "Country": "Myanmar (Burma)",
+        "Capital": "Naypyidaw[2]",
+        "Population": null,
+        "Area": "7,054",
+        "Latitude": null,
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area"
+        ]
+    },
+    {
+        "Country": "Tanzania[3]",
+        "Capital": "Dodoma (official and legislative capital)",
+        "Population": null,
+        "Area": "1,493",
+        "Latitude": null,
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area"
+        ]
+    },
+    {
+        "Country": "Côte d'Ivoire[3]",
+        "Capital": "Abidjan (de facto)",
+        "Population": null,
+        "Area": "2,119",
+        "Latitude": null,
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area"
+        ]
+    },
+    {
+        "Country": "Côte d'Ivoire",
+        "Capital": "Yamoussoukro",
+        "Population": null,
+        "Area": "2,075",
+        "Latitude": null,
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area"
+        ]
+    },
+    {
+        "Country": "Bolivia[3]",
+        "Capital": "Sucre (constitutional and judicial capital)",
+        "Population": null,
+        "Area": "216",
+        "Latitude": null,
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area"
+        ]
+    },
+    {
+        "Country": "Honduras[3]",
+        "Capital": "Tegucigalpa (de facto and official constitutional capital) and Comayagüela (official constitutional capital)",
+        "Population": null,
+        "Area": "1,502",
+        "Latitude": null,
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area"
+        ]
+    },
+    {
+        "Country": "Yemen[3]",
+        "Capital": "Aden (temporary capital)[5]",
+        "Population": null,
+        "Area": "126",
+        "Latitude": null,
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area"
+        ]
+    },
+    {
+        "Country": "South Africa[3]",
+        "Capital": "Pretoria (administrative and executive capital)",
+        "Population": null,
+        "Area": "400.28",
+        "Latitude": null,
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area"
+        ]
+    },
+    {
+        "Country": "Chile[3]",
+        "Capital": "Santiago (official)",
+        "Population": null,
+        "Area": "641",
+        "Latitude": null,
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area"
+        ]
+    },
+    {
+        "Country": "Democratic Republic of the Congo",
+        "Capital": "Kinshasa",
+        "Population": null,
+        "Area": "600",
+        "Latitude": "−4.32",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude"
+        ]
+    },
+    {
+        "Country": "Republic of China",
+        "Capital": "Taipei",
+        "Population": null,
+        "Area": "271.80",
+        "Latitude": null,
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area"
+        ]
+    },
+    {
+        "Country": "Scotland (United Kingdom)",
+        "Capital": "Edinburgh",
+        "Population": null,
+        "Area": "264",
+        "Latitude": null,
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area"
+        ]
+    },
+    {
+        "Country": "Republic of the Congo",
+        "Capital": "Brazzaville",
+        "Population": null,
+        "Area": "263.9",
+        "Latitude": "−4.27",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude"
+        ]
+    },
+    {
+        "Country": "Malaysia[3]",
+        "Capital": "Kuala Lumpur (official, royal capital, seat of national legislature)",
+        "Population": null,
+        "Area": "49",
+        "Latitude": null,
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area"
+        ]
+    },
+    {
+        "Country": "Puerto Rico (United States)",
+        "Capital": "San Juan",
+        "Population": null,
+        "Area": "199",
+        "Latitude": null,
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area"
+        ]
+    },
+    {
+        "Country": "Lao People's Democratic Republic",
+        "Capital": "Vientiane",
+        "Population": null,
+        "Area": "130[citation needed]",
+        "Latitude": null,
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area"
+        ]
+    },
+    {
+        "Country": "Northern Mariana Islands (United States)",
+        "Capital": "Saipan",
+        "Population": null,
+        "Area": "115.4",
+        "Latitude": null,
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area"
+        ]
+    },
+    {
+        "Country": "Benin[3]",
+        "Capital": "Porto-Novo (official and legislative capital)",
+        "Population": null,
+        "Area": "110[citation needed]",
+        "Latitude": null,
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area"
+        ]
+    },
+    {
+        "Country": "Montenegro[3]",
+        "Capital": "Podgorica (official capital)",
+        "Population": null,
+        "Area": "108",
+        "Latitude": null,
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area"
+        ]
+    },
+    {
+        "Country": "Cabo Verde",
+        "Capital": "Praia",
+        "Population": null,
+        "Area": "42.5",
+        "Latitude": null,
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area"
+        ]
+    },
+    {
+        "Country": "Netherlands[3]",
+        "Capital": "The Hague (seat of government)",
+        "Population": null,
+        "Area": "98.12",
+        "Latitude": null,
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area"
+        ]
+    },
+    {
+        "Country": "Northern Cyprus",
+        "Capital": "North Nicosia",
+        "Population": null,
+        "Area": "92.8",
+        "Latitude": "35.17",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude"
+        ]
+    },
+    {
+        "Country": "eSwatini[3]",
+        "Capital": "Mbabane (administrative capital)",
+        "Population": null,
+        "Area": "81.76",
+        "Latitude": null,
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area"
+        ]
+    },
+    {
+        "Country": "Switzerland[9]",
+        "Capital": "Berne (de facto)",
+        "Population": null,
+        "Area": "51.62",
+        "Latitude": null,
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area"
+        ]
+    },
+    {
+        "Country": "Niue (New Zealand)",
+        "Capital": "Alofi",
+        "Population": null,
+        "Area": "46.48[citation needed]",
+        "Latitude": null,
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area"
+        ]
+    },
+    {
+        "Country": "Sri Lanka[3]",
+        "Capital": "Colombo (executive and judicial capital)",
+        "Population": null,
+        "Area": "17[citation needed]",
+        "Latitude": null,
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area"
+        ]
+    },
+    {
+        "Country": "Nagorno-Karabakh Republic",
+        "Capital": "Stepanakert",
+        "Population": null,
+        "Area": "29.12",
+        "Latitude": null,
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area"
+        ]
+    },
+    {
+        "Country": "Cayman Islands (United Kingdom)",
+        "Capital": "George Town",
+        "Population": null,
+        "Area": "29[citation needed]",
+        "Latitude": null,
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area"
+        ]
+    },
+    {
+        "Country": "Sahrawi Arab Democratic Republic[3]",
+        "Capital": "El Aaiún (declared capital)",
+        "Population": null,
+        "Area": "0.47[12]",
+        "Latitude": null,
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area"
+        ]
+    },
+    {
+        "Country": "Turks and Caicos Islands (United Kingdom)",
+        "Capital": "Cockburn Town",
+        "Population": null,
+        "Area": "17.39",
+        "Latitude": null,
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area"
+        ]
+    },
+    {
+        "Country": "The Gambia",
+        "Capital": "Banjul",
+        "Population": null,
+        "Area": "12[citation needed]",
+        "Latitude": null,
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area"
+        ]
+    },
+    {
+        "Country": "Jersey (United Kingdom)",
+        "Capital": "Saint Helier",
+        "Population": null,
+        "Area": "10.6",
+        "Latitude": null,
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area"
+        ]
+    },
+    {
+        "Country": "Gibraltar (United Kingdom)",
+        "Capital": "Gibraltar",
+        "Population": null,
+        "Area": "6.7",
+        "Latitude": null,
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area"
+        ]
+    },
+    {
+        "Country": "Guernsey (United Kingdom)",
+        "Capital": "Saint Peter Port",
+        "Population": null,
+        "Area": "6.5",
+        "Latitude": null,
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area"
+        ]
+    },
+    {
+        "Country": "Pitcairn Islands (United Kingdom)",
+        "Capital": "Adamstown",
+        "Population": null,
+        "Area": "4.6",
+        "Latitude": null,
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area"
+        ]
+    },
+    {
+        "Country": "Saint Helena, Ascension and Tristan da Cunha (United Kingdom)",
+        "Capital": "Jamestown",
+        "Population": null,
+        "Area": "3.6",
+        "Latitude": null,
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area"
+        ]
+    },
+    {
+        "Country": "United States Virgin Islands (United States)",
+        "Capital": "Charlotte Amalie",
+        "Population": null,
+        "Area": "3.14",
+        "Latitude": null,
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area"
+        ]
+    },
+    {
+        "Country": "Guam (United States)",
+        "Capital": "Hagåtña",
+        "Population": null,
+        "Area": "3",
+        "Latitude": null,
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area"
+        ]
+    },
+    {
+        "Country": "Falkland Islands (United Kingdom)",
+        "Capital": "Stanley",
+        "Population": null,
+        "Area": "2.5",
+        "Latitude": null,
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area"
+        ]
+    },
+    {
+        "Country": "Bermuda (United Kingdom)",
+        "Capital": "Hamilton",
+        "Population": null,
+        "Area": "0.7",
+        "Latitude": null,
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area"
+        ]
+    },
+    {
+        "Country": "American Samoa (United States)",
+        "Capital": "Pago Pago",
+        "Population": null,
+        "Area": "2.09",
+        "Latitude": null,
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area"
+        ]
+    },
+    {
+        "Country": "Anguilla (United Kingdom)",
+        "Capital": "The Valley",
+        "Population": null,
+        "Area": "1.5",
+        "Latitude": null,
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area"
+        ]
+    },
+    {
+        "Country": "British Virgin Islands (United Kingdom)",
+        "Capital": "Road Town",
+        "Population": null,
+        "Area": "7.17",
+        "Latitude": null,
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area"
+        ]
+    },
+    {
+        "Country": "Collectivity of Saint Martin (France)",
+        "Capital": "Marigot",
+        "Population": null,
+        "Area": "2",
+        "Latitude": null,
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area"
+        ]
+    },
+    {
+        "Country": "Cook Islands (New Zealand)",
+        "Capital": "Avarua",
+        "Population": null,
+        "Area": "12",
+        "Latitude": null,
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area"
+        ]
+    },
+    {
+        "Country": "Eswatini[3]",
+        "Capital": "Lobamba (legislative and royal capital)",
+        "Population": null,
+        "Area": "34",
+        "Latitude": null,
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area"
+        ]
+    },
+    {
+        "Country": "Federated States of Micronesia",
+        "Capital": "Palikir",
+        "Population": null,
+        "Area": "7",
+        "Latitude": "6.92",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area",
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude"
+        ]
+    },
+    {
+        "Country": "Isle of Man (United Kingdom)",
+        "Capital": "Douglas",
+        "Population": null,
+        "Area": "4",
+        "Latitude": null,
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area"
+        ]
+    },
+    {
+        "Country": "Montserrat (United Kingdom)[3]",
+        "Capital": "Brades (de facto)[11]",
+        "Population": null,
+        "Area": "0.36",
+        "Latitude": null,
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area"
+        ]
+    },
+    {
+        "Country": "South Georgia and the South Sandwich Islands (United Kingdom)",
+        "Capital": "King Edward Point",
+        "Population": null,
+        "Area": "1.4",
+        "Latitude": null,
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area"
+        ]
+    },
+    {
+        "Country": "Svalbard and Jan Mayen (Norway)",
+        "Capital": "Longyearbyen",
+        "Population": null,
+        "Area": "4.9",
+        "Latitude": null,
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_area"
+        ]
+    },
+    {
+        "Country": "French Guiana",
+        "Capital": "Cayenne",
+        "Population": null,
+        "Area": null,
+        "Latitude": "4.92",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude"
+        ]
+    },
+    {
+        "Country": "Ascension Island",
+        "Capital": "Georgetown",
+        "Population": null,
+        "Area": null,
+        "Latitude": "−7.92",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude"
+        ]
+    },
+    {
+        "Country": "East Timor (Timor-Leste)",
+        "Capital": "Dili",
+        "Population": null,
+        "Area": null,
+        "Latitude": "−8.57",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude"
+        ]
+    },
+    {
+        "Country": "Somaliland",
+        "Capital": "Hargeisa",
+        "Population": null,
+        "Area": null,
+        "Latitude": "10",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude"
+        ]
+    },
+    {
+        "Country": "Christmas Island",
+        "Capital": "Flying Fish Cove",
+        "Population": null,
+        "Area": null,
+        "Latitude": "−10.42",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude"
+        ]
+    },
+    {
+        "Country": "Curaçao",
+        "Capital": "Willemstad",
+        "Population": null,
+        "Area": null,
+        "Latitude": "12.12",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude"
+        ]
+    },
+    {
+        "Country": "Cocos (Keeling) Islands",
+        "Capital": "West Island",
+        "Population": null,
+        "Area": null,
+        "Latitude": "−12.18",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude"
+        ]
+    },
+    {
+        "Country": "Aruba",
+        "Capital": "Oranjestad",
+        "Population": null,
+        "Area": null,
+        "Latitude": "12.52",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude"
+        ]
+    },
+    {
+        "Country": "Wallis and Futuna",
+        "Capital": "Mata-Utu",
+        "Population": null,
+        "Area": null,
+        "Latitude": "−13.28",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude"
+        ]
+    },
+    {
+        "Country": "Guam",
+        "Capital": "Hagåtña",
+        "Population": null,
+        "Area": null,
+        "Latitude": "13.47",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude"
+        ]
+    },
+    {
+        "Country": "American Samoa",
+        "Capital": "Pago Pago",
+        "Population": null,
+        "Area": null,
+        "Latitude": "−14.27",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude"
+        ]
+    },
+    {
+        "Country": "Northern Mariana Islands",
+        "Capital": "Saipan",
+        "Population": null,
+        "Area": null,
+        "Latitude": "15.17",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude"
+        ]
+    },
+    {
+        "Country": "Saint Helena, Ascension and Tristan da Cunha",
+        "Capital": "Jamestown",
+        "Population": null,
+        "Area": null,
+        "Latitude": "−15.92",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude"
+        ]
+    },
+    {
+        "Country": "Montserrat",
+        "Capital": "Plymouth (official)\nBrades (de facto)",
+        "Population": null,
+        "Area": null,
+        "Latitude": "16.7",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude"
+        ]
+    },
+    {
+        "Country": "French Polynesia",
+        "Capital": "Papeete",
+        "Population": null,
+        "Area": null,
+        "Latitude": "−17.53",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude"
+        ]
+    },
+    {
+        "Country": "Saint Barthélemy",
+        "Capital": "Gustavia",
+        "Population": null,
+        "Area": null,
+        "Latitude": "17.88",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude"
+        ]
+    },
+    {
+        "Country": "Sint Maarten",
+        "Capital": "Philipsburg",
+        "Population": null,
+        "Area": null,
+        "Latitude": "18.02",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude"
+        ]
+    },
+    {
+        "Country": "Saint Martin",
+        "Capital": "Marigot",
+        "Population": null,
+        "Area": null,
+        "Latitude": "18.07",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude"
+        ]
+    },
+    {
+        "Country": "Anguilla",
+        "Capital": "The Valley",
+        "Population": null,
+        "Area": null,
+        "Latitude": "18.22",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude"
+        ]
+    },
+    {
+        "Country": "United States Virgin Islands",
+        "Capital": "Charlotte  Amalie",
+        "Population": null,
+        "Area": null,
+        "Latitude": "18.35",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude"
+        ]
+    },
+    {
+        "Country": "British Virgin Islands",
+        "Capital": "Road Town",
+        "Population": null,
+        "Area": null,
+        "Latitude": "18.42",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude"
+        ]
+    },
+    {
+        "Country": "Puerto Rico",
+        "Capital": "San Juan",
+        "Population": null,
+        "Area": null,
+        "Latitude": "18.45",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude"
+        ]
+    },
+    {
+        "Country": "Cayman Islands",
+        "Capital": "George Town",
+        "Population": null,
+        "Area": null,
+        "Latitude": "19.3",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude"
+        ]
+    },
+    {
+        "Country": "Hong Kong",
+        "Capital": "Victoria",
+        "Population": null,
+        "Area": null,
+        "Latitude": "22.18",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude"
+        ]
+    },
+    {
+        "Country": "New Caledonia",
+        "Capital": "Nouméa",
+        "Population": null,
+        "Area": null,
+        "Latitude": "−22.27",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude"
+        ]
+    },
+    {
+        "Country": "Pitcairn Islands",
+        "Capital": "Adamstown",
+        "Population": null,
+        "Area": null,
+        "Latitude": "−25.07",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude"
+        ]
+    },
+    {
+        "Country": "Eswatini (Swaziland)",
+        "Capital": "Lobamba (royal and  legislative)",
+        "Population": null,
+        "Area": null,
+        "Latitude": "−26.42",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude"
+        ]
+    },
+    {
+        "Country": "Sahrawi Arab Democratic Republic [c]",
+        "Capital": "El Aaiún (declared)",
+        "Population": null,
+        "Area": null,
+        "Latitude": "27.15",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude"
+        ]
+    },
+    {
+        "Country": "Easter Island",
+        "Capital": "Hanga Roa",
+        "Population": null,
+        "Area": null,
+        "Latitude": "−27.15",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude"
+        ]
+    },
+    {
+        "Country": "Norfolk Island",
+        "Capital": "Kingston",
+        "Population": null,
+        "Area": null,
+        "Latitude": "−29.05",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude"
+        ]
+    },
+    {
+        "Country": "Bermuda",
+        "Capital": "Hamilton",
+        "Population": null,
+        "Area": null,
+        "Latitude": "32.28",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude"
+        ]
+    },
+    {
+        "Country": "Akrotiri and Dhekelia",
+        "Capital": "Episkopi Cantonment",
+        "Population": null,
+        "Area": null,
+        "Latitude": "34.67",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude"
+        ]
+    },
+    {
+        "Country": "Gibraltar",
+        "Capital": "Gibraltar",
+        "Population": null,
+        "Area": null,
+        "Latitude": "36.13",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude"
+        ]
+    },
+    {
+        "Country": "Tristan da Cunha",
+        "Capital": "Edinburgh of the Seven Seas",
+        "Population": null,
+        "Area": null,
+        "Latitude": "−37.07",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude"
+        ]
+    },
+    {
+        "Country": "South Ossetia",
+        "Capital": "Tskhinvali",
+        "Population": null,
+        "Area": null,
+        "Latitude": "42.23",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude"
+        ]
+    },
+    {
+        "Country": "Kosovo[g]",
+        "Capital": "Pristina",
+        "Population": null,
+        "Area": null,
+        "Latitude": "42.67",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude"
+        ]
+    },
+    {
+        "Country": "Abkhazia",
+        "Capital": "Sukhumi",
+        "Population": null,
+        "Area": null,
+        "Latitude": "43",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude"
+        ]
+    },
+    {
+        "Country": "Saint Pierre and Miquelon",
+        "Capital": "St. Pierre",
+        "Population": null,
+        "Area": null,
+        "Latitude": "46.77",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude"
+        ]
+    },
+    {
+        "Country": "Jersey",
+        "Capital": "St. Helier",
+        "Population": null,
+        "Area": null,
+        "Latitude": "49.18",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude"
+        ]
+    },
+    {
+        "Country": "Guernsey",
+        "Capital": "St. Peter Port",
+        "Population": null,
+        "Area": null,
+        "Latitude": "49.45",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude"
+        ]
+    },
+    {
+        "Country": "Wales",
+        "Capital": "Cardiff",
+        "Population": null,
+        "Area": null,
+        "Latitude": "51.48",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude"
+        ]
+    },
+    {
+        "Country": "Falkland Islands",
+        "Capital": "Stanley",
+        "Population": null,
+        "Area": null,
+        "Latitude": "−51.68",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude"
+        ]
+    },
+    {
+        "Country": "Isle of Man",
+        "Capital": "Douglas",
+        "Population": null,
+        "Area": null,
+        "Latitude": "54.13",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude"
+        ]
+    },
+    {
+        "Country": "South Georgia and the South Sandwich Islands",
+        "Capital": "King Edward Point",
+        "Population": null,
+        "Area": null,
+        "Latitude": "−54.27",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude"
+        ]
+    },
+    {
+        "Country": "Northern Ireland",
+        "Capital": "Belfast",
+        "Population": null,
+        "Area": null,
+        "Latitude": "54.60",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude"
+        ]
+    },
+    {
+        "Country": "Scotland",
+        "Capital": "Edinburgh",
+        "Population": null,
+        "Area": null,
+        "Latitude": "55.95",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude"
+        ]
+    },
+    {
+        "Country": "Åland",
+        "Capital": "Mariehamn",
+        "Population": null,
+        "Area": null,
+        "Latitude": "60.1",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude"
+        ]
+    },
+    {
+        "Country": "Faroe Islands",
+        "Capital": "Tórshavn",
+        "Population": null,
+        "Area": null,
+        "Latitude": "62.01",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude"
+        ]
+    },
+    {
+        "Country": "Greenland",
+        "Capital": "Nuuk",
+        "Population": null,
+        "Area": null,
+        "Latitude": "64.18",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude"
+        ]
+    },
+    {
+        "Country": "Svalbard",
+        "Capital": "Longyearbyen",
+        "Population": null,
+        "Area": null,
+        "Latitude": "78.22",
+        "URLs": [
+            "https://en.wikipedia.org/wiki/List_of_national_capitals_by_latitude"
+        ]
+    }
+]
